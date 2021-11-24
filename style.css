@@ -1005,8 +1005,8 @@ body::-webkit-scrollbar {
 		font-size: 20px;
 		color: #fff;
 		padding: 10px;
+		font-weight: 600;
 		font-style: none;
-		font-weight: 400;
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
@@ -1088,7 +1088,7 @@ body::-webkit-scrollbar {
 		color: #fff;
 		padding: 10px;
 		font-style: none;
-		font-weight: 400;
+		font-weight: 600;
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
@@ -1411,7 +1411,7 @@ body::-webkit-scrollbar {
 		color: #fff;
 		padding: 10px;
 		font-style: none;
-		font-weight: 400;
+		font-weight: 600;
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
