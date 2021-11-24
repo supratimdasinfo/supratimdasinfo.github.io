@@ -370,7 +370,8 @@ body::-webkit-scrollbar {
 	margin: 8px;
 }
 .lan h5{
-	font-size: 25px;
+	font-size: 30px;
+	font-family: 'Teko', sans-serif;
 }
 .skillsdetails h4{
 	color: #000;
@@ -1167,7 +1168,7 @@ body::-webkit-scrollbar {
 		
 	}
 	.lan h5{
-		font-size: 17px;
+		font-size: 20px;
 	}
 	.lan img{
 		width: auto;
