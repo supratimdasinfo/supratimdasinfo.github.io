@@ -349,6 +349,17 @@ body::-webkit-scrollbar {
 	display: inline-flex;
 	justify-content: safe center;
 }
+.lan1{
+	width: 50%;
+	display: inline-flex;
+	margin-right: 3%;
+
+}
+.lan2{
+	width: 50%;
+	display: inline-flex;
+	
+}
 
 .lan img{
 	width: auto;
@@ -575,16 +586,16 @@ body::-webkit-scrollbar {
 	border-bottom: 5px solid black;
 }
 .contact form button{
-	margin-top: 5%;
-	font-size: 25px;
+	font-size: 20px;
 	color: #fff;
 	padding: 10px;
-	font-weight: 600;
+	font-style: none;
+	font-weight: 400;
 	padding-left: 30px;
 	padding-right: 30px;
 	background: transparent;
-	border: 5px solid white;
-	font-family: 'Poppins', sans-serif;
+	border: 3px solid white;
+	font-family: 'Playfair Display', serif;
 }
 .contact form button:hover{
 	color: #fff;
@@ -729,16 +740,16 @@ body::-webkit-scrollbar {
 		display: block;
 		z-index: 1;
 		position: fixed;
-		top: 4%;
+		top: 3%;
 		right: 5%;
 	}
 	.menuu img{
 		display: block;
 		
 		
-		width: 60px;
+		width: 62px;
 		position:relative;
-		top: 4%;
+		top: 3%;
 		right: 5%;
 	}
 	body{
@@ -759,22 +770,22 @@ body::-webkit-scrollbar {
 		display: inline-flex;
 		justify-content: safe start;
 		width: 86%;
-		padding: 7.0%;
-		margin-top: 3%;
+		padding: 5.0%;
+		margin-top: 1%;
 		padding-bottom: 0.5%;
 	}
 	.solink img{
-		height: 28px;
+		height: 25px;
 		margin: 6px;
 		filter: invert(100%);
 	}
 	.logo{
 		width: 88.5%;
 		height: auto;
-		margin-top: 2%;
-		margin-bottom: 2%;
+		margin-top: 0%;
+		margin-bottom: 0%;
 		padding: 2.5%;
-		padding-left: 8%;
+		padding-left: 7%;
 	}
 	.logo h1{
 		font-size: 24px;
@@ -784,7 +795,7 @@ body::-webkit-scrollbar {
 	.logo p{
 		font-size: 20px;
 		color: #fff;
-		font-weight: 300;
+		font-weight: 400;
 		font-family: 'Poppins', sans-serif;
 	}
 	@keyframes slidedesk1{
@@ -878,27 +889,28 @@ body::-webkit-scrollbar {
 		justify-content: space-between;
 	}
 	.iam{
-		width: 84%;
+		width: 80%;
 		margin-left: 0%;
 		margin-right: 0%;
 		margin-top: 0%;
 		padding: 8%;
+		padding-left: 12%;
 		position: relative;
 		top: -10px;
 		margin-bottom: 15%;
 		padding-top: 15%;
 		padding-bottom: 15%;
-		background: #201f1f;
+		background: #0b0b0b;
 
 	}
 	.iam h1{
-		font-size: 30px;
+		font-size: 33px;
 
 		color: #fff;
 		position: static;
 		top: 12%;
 		text-align: left;
-		
+		line-height: 40px;
 
 		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
@@ -943,7 +955,8 @@ body::-webkit-scrollbar {
 		text-decoration: none;
 		text-decoration-color: black;
 		font-family: 'Poppins', sans-serif;
-		font-size: 30px;
+		font-size: 32px;
+		line-height: 35px;
 
 	}
 
@@ -965,7 +978,7 @@ body::-webkit-scrollbar {
 	}
 	.details p{
 		font-size: 20px;
-		text-align: justify;
+		text-align: left;
 		font-weight: 300;
 		color: #fff;
 		font-family: 'Playfair Display', serif;
@@ -974,7 +987,7 @@ body::-webkit-scrollbar {
 		font-size: 30px;
 		text-align: left;
 		font-weight: 400;
-		line-height: 60px;
+		line-height: 53px;
 		color: #fff;
 		font-family: 'Poppins', sans-serif;
 	}
@@ -1017,7 +1030,7 @@ body::-webkit-scrollbar {
 		margin-left: 5%;
 		padding: 0%;
 		margin-bottom: 15%;
-		background: #201f1f;
+		background: #0b0b0b;
 		position: relative;
 		top: -50px;
 	}
@@ -1044,7 +1057,8 @@ body::-webkit-scrollbar {
 		color: #fff;
 		line-height: 40px;
 		font-family: 'Poppins', sans-serif;
-		font-size: 30px;
+		font-size: 32px;
+		line-height: 35px;
 	}
 	.edu1 h4{
 		color: #fff;
@@ -1056,7 +1070,7 @@ body::-webkit-scrollbar {
 	.edu1 p{
 		color: #fff;
 		
-		text-align: justify;
+		text-align: left;
 		font-family: 'Playfair Display', serif;
 		font-size: 20px;
 	}
@@ -1082,7 +1096,7 @@ body::-webkit-scrollbar {
 	.skills2{
 		width: 80%;
 		background: blue;
-		height: 150px;
+		height: 200px;
 	}
 	.skills2con{
 		width: 100%;
@@ -1099,13 +1113,14 @@ body::-webkit-scrollbar {
 		text-decoration: none;
 		text-decoration-color: black;
 		font-family: 'Poppins', sans-serif;
-		font-size: 25px;
+		font-size: 32px;
+		line-height: 35px;
 
 	}
 	.skillsdetails{
 		width: 74%;
 		position: relative;
-		top: -50px;
+		top: -70px;
 		background: #fff;
 		margin-left: 5%;
 
@@ -1117,7 +1132,7 @@ body::-webkit-scrollbar {
 	.skillsdetails p{
 		color: #000;
 		font-weight: 600;
-		text-align: justify;
+		text-align: center;
 		font-family: 'Playfair Display', serif;
 		font-size: 20px;
 	}
@@ -1130,15 +1145,29 @@ body::-webkit-scrollbar {
 		width: 90%;
 		margin: 5%;
 		margin-top: 5%;
-		display: flex;
+		display: inline-block;
 		justify-content: safe center;
 	}
+	.lan1{
+		width: 100%;
+		display: inline-flex;
+		justify-content: safe center;
+		margin-right: 0%;
 
+	}
+	.lan2{
+		width: 100%;
+		display: inline-flex;
+		justify-content: safe center;
+		
+	}
 	.lan img{
 		width: auto;
 		opacity: 70%;
-		height: 35px;
-		margin: 8px;
+		height: 40px;
+		margin: 5px;
+		margin-top: 0;
+		margin-bottom: 0;
 	}
 	.skillsdetails h4{
 		color: #000;
@@ -1213,7 +1242,7 @@ body::-webkit-scrollbar {
 		width: 80%;
 		background: blue;
 		margin-top: 25%;
-		height: 150px;
+		height: 200px;
 	}
 	.project1con{
 		width: 100%;
@@ -1230,7 +1259,8 @@ body::-webkit-scrollbar {
 		text-decoration: none;
 		text-decoration-color: black;
 		font-family: 'Poppins', sans-serif;
-		font-size: 25px;
+		font-size: 32px;
+		line-height: 35px;
 
 	}
 
@@ -1319,7 +1349,8 @@ body::-webkit-scrollbar {
 		position: relative;
 		top: -50px;
 		left: 4%;
-		font-size: 30px;
+		font-size: 32px;
+		line-height: 35px;
 		color: #fff;
 		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
@@ -1363,16 +1394,18 @@ body::-webkit-scrollbar {
 		border-bottom: 4px solid black;
 	}
 	.contact form button{
-		margin-top: 5%;
+		width: 100%;
+		margin: auto;
 		font-size: 20px;
 		color: #fff;
-		padding: 5px;
-		font-weight: 500;
-		padding-left: 20px;
-		padding-right: 20px;
+		padding: 10px;
+		font-style: none;
+		font-weight: 400;
+		padding-left: 30px;
+		padding-right: 30px;
 		background: transparent;
 		border: 3px solid white;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Playfair Display', serif;
 	}
 	.contact form button:hover{
 		color: #fff;
