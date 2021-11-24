@@ -352,12 +352,14 @@ body::-webkit-scrollbar {
 .lan1{
 	width: 50%;
 	display: inline-flex;
-	margin-right: 3%;
+	justify-content: safe end;
+	margin-right: 0%;
 
 }
 .lan2{
 	width: 50%;
 	display: inline-flex;
+	justify-content: safe start;
 	
 }
 
@@ -366,6 +368,9 @@ body::-webkit-scrollbar {
 	opacity: 70%;
 	height: 70px;
 	margin: 8px;
+}
+.lan h5{
+	font-size: 25px;
 }
 .skillsdetails h4{
 	color: #000;
@@ -776,7 +781,7 @@ body::-webkit-scrollbar {
 	}
 	.solink img{
 		height: 25px;
-		margin: 6px;
+		margin: 5px;
 		filter: invert(100%);
 	}
 	.logo{
@@ -977,7 +982,7 @@ body::-webkit-scrollbar {
 		100%{border-radius: 30% 70% 70% 30% / 30% 38% 62% 70% ;}
 	}
 	.details p{
-		font-size: 20px;
+		font-size: 17px;
 		text-align: left;
 		font-weight: 300;
 		color: #fff;
@@ -1072,7 +1077,7 @@ body::-webkit-scrollbar {
 		
 		text-align: left;
 		font-family: 'Playfair Display', serif;
-		font-size: 20px;
+		font-size: 17px;
 	}
 	.edu button{
 		font-size: 20px;
@@ -1134,7 +1139,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		text-align: center;
 		font-family: 'Playfair Display', serif;
-		font-size: 20px;
+		font-size: 17px;
 	}
 	.skillsdetails h3{
 		font-family: 'Playfair Display', serif;
@@ -1160,6 +1165,9 @@ body::-webkit-scrollbar {
 		display: inline-flex;
 		justify-content: safe center;
 		
+	}
+	.lan h5{
+		font-size: 17px;
 	}
 	.lan img{
 		width: auto;
