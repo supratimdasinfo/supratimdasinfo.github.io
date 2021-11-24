@@ -777,7 +777,7 @@ body::-webkit-scrollbar {
 		justify-content: safe start;
 		width: 86%;
 		padding: 5.0%;
-		margin-top: 1%;
+		margin-top: 1.5%;
 		padding-bottom: 0.5%;
 	}
 	.solink img{
@@ -791,6 +791,7 @@ body::-webkit-scrollbar {
 		margin-top: 0%;
 		margin-bottom: 0%;
 		padding: 2.5%;
+		padding-top: 1.5%;
 		padding-left: 7%;
 	}
 	.logo h1{
@@ -1447,7 +1448,7 @@ body::-webkit-scrollbar {
 
 		font-size: 15px;
 		color: #fff;
-		font-weight: 300;
+		font-weight: 400;
 		font-family: 'Poppins', sans-serif;
 	}
 
