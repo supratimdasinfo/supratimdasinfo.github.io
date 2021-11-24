@@ -1,0 +1,158 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	scroll-behavior: smooth;
+	transition: 0.8s;
+}
+body{
+	background:#dbd5c9;
+	min-width: 1000px;
+}
+body::-webkit-scrollbar {
+  display: none;
+
+}
+.header{
+	width: 97%;
+	display: inline-flex;
+
+
+	padding: 1.5%;
+	margin-top: 3%;
+}
+.header1{
+	width: 35%;
+	display: inline-flex;
+	justify-content: safe start;
+}
+.header2{
+	width: 35%;
+	display: inline-flex;
+	justify-content: safe end;
+}
+.sep{
+	width: 12%;
+	padding-left: 9%;
+	padding-right: 9%;
+	display: inline-flex;
+	justify-content: space-between;
+}
+.sep img{
+	width: 25px;
+}
+.header ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 2px 24px;
+	position: relative;
+	text-align: center;
+
+
+}
+.header ul li a{
+	text-decoration: none;
+	color: #000;
+
+	font-style: normal;
+	font-size: 18px;
+	font-weight: 600;
+	border-bottom: 0px solid yellow;
+	font-family: 'Josefin Sans', sans-serif;
+	transition: 0.5s;
+
+}
+.header1 ul li{
+	text-align: left;
+}
+.header2 ul li{
+	text-align: right;
+}
+.header1 ul li p{
+	text-align: left;
+}
+.header2 ul li p{
+	text-align: right;
+}
+.header ul li p{
+	text-decoration: none;
+	color: #000;
+
+	font-style: normal;
+	font-size: 10px;
+	font-weight: 900;
+	margin-top: 5px;
+	border-bottom: 0px solid yellow;
+	font-family: 'Josefin Sans', sans-serif;
+	transition: 0.5s;
+
+}
+
+.header ul li a:hover{
+
+	color: #fff;
+	
+}
+.mid{
+	width: 100%;
+	margin-top: 5%;
+	height: 500px;
+	display: inline-flex;
+	justify-content: space-between;
+
+}
+.mid1 h1{
+	font-size: 120px;
+	position: relative;
+	left: 10%;
+	top: 0%;
+	
+  color: #000;
+
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.mid1 p{
+	width: 100%;
+	text-align: right;
+	font-weight: 600;
+	font-size: 15px;
+	font-family: 'Noto Serif Display', serif;
+	position: relative;
+	left: 10%;
+	top: 0%;
+	z-index: 4;
+}
+.mid3 h1{
+
+	font-size: 120px;
+	position: relative;
+	left: -10%;
+	top: 50%;	
+  color: #fff;
+
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+.mid1{
+	width: 33.3%;
+	z-index: 0;
+}
+.mid2{
+	width: 33.3%;
+	z-index: 1;
+}
+.mid2 img{
+	width: 100%;
+	opacity: 90%;
+	border-radius: 50%;
+	animation: ani 3s infinite;
+
+}
+
+.mid3{
+	width: 33.3%;
+	z-index: 0;
+}
