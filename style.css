@@ -6,6 +6,7 @@ html{
 	scroll-behavior: smooth;
 	transition: 0.8s;
 	filter: invert(100%);
+	opacity: 90%;
 }
 body{
 	background:#000;
@@ -206,7 +207,7 @@ body::-webkit-scrollbar {
 	text-align: justify;
 	font-weight: 300;
 	color: #fff;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 }
 .details h3{
 	font-size: 40px;
@@ -226,7 +227,7 @@ body::-webkit-scrollbar {
 	padding-right: 30px;
 	background: transparent;
 	border: 3px solid white;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 }
 .myimg{
 	width: 100%;
@@ -269,15 +270,16 @@ body::-webkit-scrollbar {
 .edu1 h4{
 	color: #fff;
 	margin-top: 5%;
-	line-height: 40px;
-	font-family: 'Poppins', sans-serif;
-	font-size: 28px;
+	line-height: 60px;
+	font-weight: 600;
+	font-family: 'Playfair Display', serif;
+	font-size: 38px;
 }
 .edu1 p{
 	color: #fff;
 	
 	text-align: justify;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 	font-size: 20px;
 }
 .edu button{
@@ -290,7 +292,7 @@ body::-webkit-scrollbar {
 	padding-right: 30px;
 	background: transparent;
 	border: 3px solid white;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 }
 .skills{
 	width: 100%;
@@ -336,11 +338,11 @@ body::-webkit-scrollbar {
 	color: #000;
 	font-weight: 600;
 	text-align: justify;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 	font-size: 20px;
 }
 .skillsdetails h3{
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 	font-size: 35px;
 	text-align: center;
 }
@@ -521,7 +523,7 @@ body::-webkit-scrollbar {
 	height: 350px;
 	font-size: 45px;
 	color: #fff;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 }
 .post p{
 	font-size: 15px;
@@ -630,7 +632,7 @@ body::-webkit-scrollbar {
 	padding-right: 30px;
 	background: transparent;
 	border: 3px solid white;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 }
 .contact form button:hover{
 	color: #fff;
@@ -641,7 +643,7 @@ body::-webkit-scrollbar {
 	text-align: left;
 	font-size: 25px;
 	font-weight: 300;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Source Serif Pro', serif;
 }
 .end{
 	width: 96%;
@@ -833,12 +835,13 @@ body::-webkit-scrollbar {
 		padding-left: 7%;
 	}
 	.logo h1{
-		font-size: 24px;
+		font-size: 22px;
+		line-height: 30px;
 		color: #fff;
 		font-family: 'Poppins', sans-serif;
 	}
 	.logo p{
-		font-size: 16px;
+		font-size: 18px;
 		color: #fff;
 		font-weight: 400;
 		font-family: 'Poppins', sans-serif;
@@ -1026,7 +1029,7 @@ body::-webkit-scrollbar {
 		text-align: left;
 		font-weight: 500;
 		color: #fff;
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 	}
 	.details h3{
 		font-size: 30px;
@@ -1048,7 +1051,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: transparent;
 		border: 3px solid white;
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 	}
 	.myimg{
 		width: 100%;
@@ -1109,8 +1112,8 @@ body::-webkit-scrollbar {
 	.edu1 h4{
 		color: #fff;
 		margin-top: 5%;
-		line-height: 35px;
-		font-family: 'Poppins', sans-serif;
+		line-height: 40px;
+		font-family: 'Playfair Display', serif;
 		font-size: 25px;
 	}
 	.edu1 p{
@@ -1118,7 +1121,7 @@ body::-webkit-scrollbar {
 		font-weight: 500;
 		
 		text-align: left;
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 		font-size: 17px;
 	}
 	.edu button{
@@ -1132,7 +1135,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: transparent;
 		border: 3px solid white;
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 	}
 	.skills{
 		width: 100%;
@@ -1180,11 +1183,11 @@ body::-webkit-scrollbar {
 		color: #000;
 		font-weight: 600;
 		text-align: left;
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 		font-size: 17px;
 	}
 	.skillsdetails h3{
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 		font-size: 22px;
 		text-align: left;
 	}
@@ -1340,7 +1343,7 @@ body::-webkit-scrollbar {
 		height: 150px;
 		font-size: 30px;
 		color: #fff;
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 	}
 	.post p{
 		font-size: 15px;
@@ -1454,7 +1457,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: transparent;
 		border: 3px solid white;
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 	}
 	.contact form button:hover{
 		color: #fff;
@@ -1465,7 +1468,7 @@ body::-webkit-scrollbar {
 		text-align: left;
 		font-size: 20px;
 		font-weight: 300;
-		font-family: 'Playfair Display', serif;
+		font-family: 'Source Serif Pro', serif;
 	}
 	.end{
 		width: 84%;
