@@ -31,12 +31,13 @@ body::-webkit-scrollbar {
 	padding-left: 3%;
 }
 .logo h1{
-	font-size: 24px;
+	font-size: 28px;
 	color: #fff;
 	font-family: 'Poppins', sans-serif;
 }
 .logo p{
 	font-size: 22px;
+	line-height: 22px;
 	color: #fff;
 	font-family: 'Poppins', sans-serif;
 }
@@ -136,8 +137,9 @@ body::-webkit-scrollbar {
 .iam h1{
 	font-size: 54px;
 	color: #fff;
+	line-height: 70px;
 	position: relative;
-	top: 12%;
+	top: 14%;
 	text-align: left;
 	
 
@@ -210,7 +212,7 @@ body::-webkit-scrollbar {
 	font-size: 40px;
 	text-align: left;
 	font-weight: 400;
-	line-height: 75px;
+	line-height: 65px;
 	color: #fff;
 	font-family: 'Poppins', sans-serif;
 }
@@ -267,9 +269,9 @@ body::-webkit-scrollbar {
 .edu1 h4{
 	color: #fff;
 	margin-top: 5%;
-	line-height: 65px;
+	line-height: 40px;
 	font-family: 'Poppins', sans-serif;
-	font-size: 38px;
+	font-size: 28px;
 }
 .edu1 p{
 	color: #fff;
@@ -836,7 +838,7 @@ body::-webkit-scrollbar {
 		font-family: 'Poppins', sans-serif;
 	}
 	.logo p{
-		font-size: 20px;
+		font-size: 16px;
 		color: #fff;
 		font-weight: 400;
 		font-family: 'Poppins', sans-serif;
@@ -1022,7 +1024,7 @@ body::-webkit-scrollbar {
 	.details p{
 		font-size: 17px;
 		text-align: left;
-		font-weight: 300;
+		font-weight: 500;
 		color: #fff;
 		font-family: 'Playfair Display', serif;
 	}
@@ -1030,7 +1032,7 @@ body::-webkit-scrollbar {
 		font-size: 30px;
 		text-align: left;
 		font-weight: 400;
-		line-height: 53px;
+		line-height: 52px;
 		color: #fff;
 		font-family: 'Poppins', sans-serif;
 	}
@@ -1102,16 +1104,18 @@ body::-webkit-scrollbar {
 		font-family: 'Poppins', sans-serif;
 		font-size: 32px;
 		line-height: 35px;
+		margin-bottom: 30px;
 	}
 	.edu1 h4{
 		color: #fff;
 		margin-top: 5%;
-		line-height: 65px;
+		line-height: 35px;
 		font-family: 'Poppins', sans-serif;
 		font-size: 25px;
 	}
 	.edu1 p{
 		color: #fff;
+		font-weight: 500;
 		
 		text-align: left;
 		font-family: 'Playfair Display', serif;
