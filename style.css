@@ -347,28 +347,55 @@ body::-webkit-scrollbar {
 	margin: 5%;
 	margin-top: 5%;
 	display: inline-flex;
-	justify-content: safe center;
+	justify-content:space-between;
 }
 .lan1{
-	width: 50%;
-	display: inline-flex;
-	justify-content: safe end;
+	width: 45%;
+	display: inline-block;
+	
 	margin-right: 0%;
 
 }
+.lan11{
+	margin-bottom: 10px;
+}
 .lan2{
-	width: 50%;
-	display: inline-flex;
-	justify-content: safe start;
+	width: 45%;
+	display: inline-block;
 	
 }
-
-.lan img{
-	width: auto;
-	opacity: 70%;
-	height: 70px;
-	margin: 8px;
+.per{
+	width: 100%;
+	border-radius: 15px;
+	height: 10px;
+	background: #404040;
+	filter: invert(100%);
 }
+.perval{
+
+	height: 10px;
+	background: yellow;
+	border-radius: 15px;
+}
+#pv1{
+	width: 40%;
+}
+#pv2{
+	width: 60%;
+}
+#pv3{
+	width: 90%;
+}
+#pv4{
+	width: 95%;
+}
+#pv5{
+	width: 40%;
+}
+#pv6{
+	width: 25%;
+}
+
 .lan h5{
 	font-size: 30px;
 	font-family: 'Teko', sans-serif;
@@ -686,8 +713,16 @@ body::-webkit-scrollbar {
 }
 
 
-
-
+#preload{
+	width: 100%;
+	height: 100%;
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #000;
+	z-index: 99999999999;
+}
 
 
 
@@ -1140,37 +1175,36 @@ body::-webkit-scrollbar {
 	.skillsdetails p{
 		color: #000;
 		font-weight: 600;
-		text-align: justify;
+		text-align: left;
 		font-family: 'Playfair Display', serif;
 		font-size: 17px;
 	}
 	.skillsdetails h3{
 		font-family: 'Playfair Display', serif;
-		font-size: 30px;
-		text-align: center;
+		font-size: 22px;
+		text-align: left;
 	}
 	.lan{
-		width: 90%;
-		margin: 5%;
+		width: 100%;
+		margin: 0%;
 		margin-top: 5%;
-		display: inline-flex;
-		justify-content: safe center;
+		display: inline-block;
 	}
 	.lan1{
 		width: 100%;
-		display: inline-flex;
-		justify-content: safe center;
+		display: inline-block;
+
 		margin-right: 0%;
 
 	}
 	.lan2{
 		width: 100%;
-		display: inline-flex;
+		display: inline-block;
 		justify-content: safe center;
 		
 	}
 	.lan h5{
-		font-size: 16px;
+		font-size: 20px;
 	}
 	.lan img{
 		width: auto;
