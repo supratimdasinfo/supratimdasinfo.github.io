@@ -47,7 +47,9 @@
 </head>
 <body>
 	<iframe style="display:none;" src="https://suprocontactform.000webhostapp.com/welcome.php"></iframe>
-
+	<div id="scroll-percent" data-scrollPercentage>
+		<div class="percentage">&nbsp;</div>
+	</div>
 	<div class="header" id="header">
 		<div class="menuu">
 			<img onclick="show()" src="menu.png">
@@ -64,7 +66,7 @@
 
 		</div>
 		<div class="logo">
-			<h1>I'm Supratim.</h1>
+			<h1>I'm Supratim Das.</h1>
 			<p>A <span style="background: ;  color: #fff; padding: 1px; padding-top: 0px; padding-bottom: 0px; font-weight: 500;">Coder</span> and Designer</p>
 
 		</div>
@@ -254,7 +256,7 @@
 
 		<div class="contact" id="contact">
 			<h1 data-aos="fade-up"><span style="font-weight: 400;">I'm here to answer</span> any question <span style="font-weight: 400;">you</span> might have</h1><br><br>
-			<form method="POST" action="https://api.slapform.com/rJhK70moQ">
+			<form method="POST" action="https://suprocontactform.000webhostapp.com/mailer.php">
 				<p>Name</p>
 				<input type="text" name="name" placeholder="I am ...."><br><br>
 	        	<p>Email</p>
@@ -282,6 +284,7 @@
 		
 	</div>	
 	<div id="preload"></div>
+
 
 	<script>
 
@@ -320,6 +323,37 @@
 	    	duration: 700,
 	    	offset: 140,
 	    });
+	</script>
+
+
+	<script>
+
+		/** code by webdevtrick ( https://webdevtrick.com ) **/
+		const updateScrollPercentage = function() { 
+		 const heightOfWindow = window.innerHeight,
+		 contentScrolled = window.pageYOffset,
+		 bodyHeight = document.body.offsetHeight,
+		 percentage = document.querySelector("[data-scrollPercentage] .percentage")
+		 percentageVal = document.querySelector("#percentage-value")
+		 
+		 if(bodyHeight - contentScrolled <= heightOfWindow) {
+		 percentageVal.textContent = percentage.style.width = "100%"
+		 }
+		 else {
+		 const total = bodyHeight - heightOfWindow,
+		 got = contentScrolled,
+		 percent = parseInt((got/total) * 100)
+		 percentageVal.textContent = percentage.style.width = percent + "%"
+		 }
+		 }
+		 
+		 window.addEventListener('scroll', updateScrollPercentage)
+
+
+
+
+
+
 	</script>
 </body>
 </html>
