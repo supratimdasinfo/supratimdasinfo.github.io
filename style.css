@@ -277,8 +277,8 @@ body::-webkit-scrollbar {
 	
 	left: -10%;
 	font-weight: 600;
-	font-family: 'Poppins', sans-serif;
-	font-size: 34px;
+	font-family: 'Playfair Display', serif;
+	font-size: 42px;
 }
 .edu1 p{
 	color: #fff;
@@ -1157,7 +1157,7 @@ body::-webkit-scrollbar {
 		filter: invert(100%);
 	}
 	.edu{
-		width: 88%;
+		width: 93%;
 		margin-left: 0%;
 		padding: 0%;
 		padding-left: 7%;
@@ -1182,7 +1182,7 @@ body::-webkit-scrollbar {
 		background: blue;
 		position: relative;
 		top: -30px;
-		right: -35%;
+		right: -30%;
 		z-index: -1;
 	}
 	.edu1 h1{
@@ -1201,8 +1201,8 @@ body::-webkit-scrollbar {
 		position: relative;
 		font-weight: 900;
 		left: -10%;
-		font-family: 'Poppins', sans-serif;
-		font-size: 24px;
+		font-family: 'Playfair Display', serif;
+		font-size: 30px;
 	}
 	.edu1 p{
 		color: #fff;
