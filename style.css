@@ -275,7 +275,7 @@ body::-webkit-scrollbar {
 	line-height: 40px;
 	font-weight: 600;
 	font-family: 'Playfair Display', serif;
-	font-size: 38px;
+	font-size: 34px;
 }
 .edu1 p{
 	color: #fff;
@@ -403,7 +403,7 @@ body::-webkit-scrollbar {
 	width: 95%;
 }
 #pv5{
-	width: 40%;
+	width: 45%;
 }
 #pv6{
 	width: 25%;
@@ -1195,7 +1195,7 @@ body::-webkit-scrollbar {
 		margin-bottom: 4%;
 		line-height: 40px;
 		font-family: 'Playfair Display', serif;
-		font-size: 30px;
+		font-size: 24px;
 	}
 	.edu1 p{
 		color: #fff;
