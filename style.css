@@ -5,7 +5,7 @@
 html{
 	scroll-behavior: smooth;
 	transition: 0.8s;
-	filter: invert(100%);
+	filter: invert(100%) grayscale(0%);
 	opacity: 90%;
 }
 body{
@@ -271,7 +271,7 @@ body::-webkit-scrollbar {
 .edu1 h4{
 	color: #fff;
 	margin-top: 1%;
-	margin-bottom: 4%;
+	margin-bottom: 2%;
 	line-height: 70px;
 	position: relative;
 	opacity: 80%;
@@ -601,7 +601,7 @@ body::-webkit-scrollbar {
 	text-align: left;
 	font-size: 20px;
 	color: #fff;
-	font-weight: 600;
+	font-weight: 400;
 	font-family: 'Poppins', sans-serif;
 }
 .contact form{
@@ -655,7 +655,7 @@ body::-webkit-scrollbar {
 
 	text-align: left;
 	font-size: 25px;
-	font-weight: 600;
+	font-weight: 400;
 	font-family: 'Poppins', sans-serif;
 }
 .end{
@@ -1116,7 +1116,7 @@ body::-webkit-scrollbar {
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
-		border: 2.5px solid white;
+		border: 2px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
 	.myimg{
@@ -1179,7 +1179,7 @@ body::-webkit-scrollbar {
 	.edu1 h4{
 		color: #fff;
 		margin-top: 2%;
-		margin-bottom: 6%;
+		margin-bottom: 2%;
 		line-height: 52px;
 		position: relative;
 		font-weight: 600;
@@ -1205,7 +1205,7 @@ body::-webkit-scrollbar {
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
-		border: 2.5px solid white;
+		border: 2px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
 	.skills{
@@ -1474,7 +1474,7 @@ body::-webkit-scrollbar {
 		text-align: left;
 		position: relative;
 		top: -50px;
-		left: 4%;
+		left: 7%;
 		font-size: 32px;
 		line-height: 35px;
 		color: #fff;
@@ -1530,7 +1530,7 @@ body::-webkit-scrollbar {
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
-		border: 2.5px solid white;
+		border: 2px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
 	.contact form button:hover{
@@ -1541,7 +1541,7 @@ body::-webkit-scrollbar {
 
 		text-align: left;
 		font-size: 20px;
-		font-weight: 600;
+		font-weight: 400;
 		font-family: 'Poppins', sans-serif;
 	}
 	.end{
@@ -1564,7 +1564,7 @@ body::-webkit-scrollbar {
 
 		font-size: 15px;
 		color: #fff;
-		font-weight: 600;
+		font-weight: 400;
 		font-family: 'Poppins', sans-serif;
 	}
 
