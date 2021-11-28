@@ -205,9 +205,9 @@ body::-webkit-scrollbar {
 .details p{
 	font-size: 20px;
 	text-align: justify;
-	font-weight: 300;
+	font-weight: 400;
 	color: #fff;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .details h3{
 	font-size: 40px;
@@ -227,7 +227,7 @@ body::-webkit-scrollbar {
 	padding-right: 30px;
 	background: transparent;
 	border: 3px solid white;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .myimg{
 	width: 100%;
@@ -286,7 +286,7 @@ body::-webkit-scrollbar {
 	border-left: 0px solid blue;
 	animation:  2s infinite;
 	text-align: justify;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 20px;
 }
 @keyframes br{
@@ -304,7 +304,7 @@ body::-webkit-scrollbar {
 	padding-right: 30px;
 	background: transparent;
 	border: 3px solid white;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .skills{
 	width: 100%;
@@ -350,13 +350,14 @@ body::-webkit-scrollbar {
 	color: #000;
 	font-weight: 600;
 	text-align: justify;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 20px;
 }
 .skillsdetails h3{
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 35px;
 	text-align: center;
+	color: blue;
 }
 .lan{
 	width: 90%;
@@ -533,9 +534,9 @@ body::-webkit-scrollbar {
 }
 .post h3{
 	height: 350px;
-	font-size: 45px;
+	font-size: 35px;
 	color: #fff;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .post p{
 	font-size: 15px;
@@ -644,7 +645,7 @@ body::-webkit-scrollbar {
 	padding-right: 30px;
 	background: transparent;
 	border: 3px solid white;
-	font-family: 'Bitter', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .contact form button:hover{
 	color: #fff;
@@ -654,8 +655,8 @@ body::-webkit-scrollbar {
 
 	text-align: left;
 	font-size: 25px;
-	font-weight: 300;
-	font-family: 'Bitter', serif;
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
 }
 .end{
 	width: 96%;
@@ -1094,11 +1095,11 @@ body::-webkit-scrollbar {
 		text-align: justify;
 		font-weight: 500;
 		color: #fff;
-		font-family: 'Bitter', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.details h3{
 		font-size: 30px;
-		text-align: center;
+		text-align: left;
 		font-weight: 400;
 		line-height: 52px;
 		color: #fff;
@@ -1107,7 +1108,6 @@ body::-webkit-scrollbar {
 	.details button{
 		width: 100%;
 		margin: auto;
-		display: none;
 		font-size: 20px;
 		color: #fff;
 		padding: 10px;
@@ -1117,7 +1117,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: transparent;
 		border: 3px solid white;
-		font-family: 'Bitter', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.myimg{
 		width: 100%;
@@ -1192,7 +1192,7 @@ body::-webkit-scrollbar {
 		font-weight: 500;
 		border-left: 0px solid blue;
 		text-align: justify;
-		font-family: 'Bitter', serif;
+		font-family: 'Poppins', sans-serif;
 		font-size: 20px;
 	}
 	.edu button{
@@ -1206,7 +1206,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: transparent;
 		border: 3px solid white;
-		font-family: 'Bitter', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.skills{
 		width: 100%;
@@ -1253,14 +1253,16 @@ body::-webkit-scrollbar {
 	.skillsdetails p{
 		color: #000;
 		font-weight: 600;
+		padding: 5%;
 		text-align: justify;
-		font-family: 'Bitter', serif;
+		font-family: 'Poppins', sans-serif;
 		font-size: 20px;
 	}
 	.skillsdetails h3{
-		font-family: 'Bitter', serif;
+		font-family: 'Poppins', sans-serif;
 		font-size: 32px;
-		text-align: center;
+		text-align: left;
+		font-weight: 600;
 	}
 	.lan{
 		width: 100%;
@@ -1282,7 +1284,7 @@ body::-webkit-scrollbar {
 		
 	}
 	.lan h5{
-		font-size: 20px;
+		font-size: 25px;
 	}
 	.lan img{
 		width: auto;
@@ -1412,9 +1414,9 @@ body::-webkit-scrollbar {
 	}
 	.post h3{
 		height: 150px;
-		font-size: 30px;
+		font-size: 25px;
 		color: #fff;
-		font-family: 'Bitter', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.post p{
 		font-size: 15px;
@@ -1528,7 +1530,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: transparent;
 		border: 3px solid white;
-		font-family: 'Bitter', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.contact form button:hover{
 		color: #fff;
@@ -1538,8 +1540,8 @@ body::-webkit-scrollbar {
 
 		text-align: left;
 		font-size: 20px;
-		font-weight: 300;
-		font-family: 'Bitter', serif;
+		font-weight: 400;
+		font-family: 'Poppins', sans-serif;
 	}
 	.end{
 		width: 84%;
