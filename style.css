@@ -271,10 +271,10 @@ body::-webkit-scrollbar {
 .edu1 h4{
 	color: #fff;
 	margin-top: 1%;
-	margin-bottom: 1%;
-	line-height: 32px;
+	margin-bottom: 4%;
+	line-height: 70px;
 	position: relative;
-	
+	opacity: 80%;
 	left: -5%;
 	font-weight: 600;
 	font-family: 'Poppins', sans-serif;
@@ -1093,15 +1093,15 @@ body::-webkit-scrollbar {
 	.details p{
 		font-size: 16px;
 		text-align: left;
-		font-weight: 500;
-		color: #fff;
+		font-weight: 600;
+		color: #bdbdbd;
 		font-family: 'Poppins', sans-serif;
 	}
 	.details h3{
-		font-size: 30px;
+		font-size: 27px;
 		text-align: left;
 		font-weight: 400;
-		line-height: 52px;
+		line-height: 47px;
 		color: #fff;
 		font-family: 'Poppins', sans-serif;
 	}
@@ -1116,7 +1116,7 @@ body::-webkit-scrollbar {
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
-		border: 3px solid white;
+		border: 2.5px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
 	.myimg{
@@ -1179,17 +1179,17 @@ body::-webkit-scrollbar {
 	.edu1 h4{
 		color: #fff;
 		margin-top: 2%;
-		margin-bottom: 2%;
-		line-height: 24px;
+		margin-bottom: 6%;
+		line-height: 52px;
 		position: relative;
-		font-weight: 900;
+		font-weight: 600;
 		left: -3%;
 		font-family: 'Poppins', sans-serif;
-		font-size: 25px;
+		font-size: 20px;
 	}
 	.edu1 p{
-		color: #fff;
-		font-weight: 500;
+		color: #bdbdbd;
+		font-weight: 600;
 		border-left: 0px solid blue;
 		text-align: left;
 		font-family: 'Poppins', sans-serif;
@@ -1205,7 +1205,7 @@ body::-webkit-scrollbar {
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
-		border: 3px solid white;
+		border: 2.5px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
 	.skills{
@@ -1226,6 +1226,7 @@ body::-webkit-scrollbar {
 		left: 20px;
 	}
 	.skills2 h1{
+		width: 100%;
 
 		margin-left: 5%;
 
@@ -1241,7 +1242,7 @@ body::-webkit-scrollbar {
 	.skillsdetails{
 		width: 80%;
 		position: relative;
-		top: -70px;
+		top: -60px;
 		background: #fff;
 		margin-left: 0%;
 
@@ -1251,7 +1252,7 @@ body::-webkit-scrollbar {
 
 	}
 	.skillsdetails p{
-		color: #000;
+		color: #4c4c4c;
 		font-weight: 600;
 		padding: 5%;
 		text-align: left;
@@ -1529,7 +1530,7 @@ body::-webkit-scrollbar {
 		padding-left: 30px;
 		padding-right: 30px;
 		background: transparent;
-		border: 3px solid white;
+		border: 2.5px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
 	.contact form button:hover{
