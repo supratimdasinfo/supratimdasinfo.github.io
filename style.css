@@ -83,7 +83,16 @@ body::-webkit-scrollbar {
 	color: #fff;
 	
 }
-.menu img{
+.login{
+
+}
+.login img{
+	width: 40px;
+	filter: invert(100%);
+	position: relative;
+	bottom: -11px;
+}
+.menu a img{
 	position: relative;
 	top: 5px;
 	left: 0;
@@ -802,9 +811,38 @@ body::-webkit-scrollbar {
 	width: 35px;
 	height: auto;
 }
-
+#msg{
+	width: auto;
+	padding: 5%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	position: fixed;
+	border-radius:10px ;
+	top:-1000px;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+	z-index: 9999999;
+	left: 20px;
+	transition: 0.7s;
+	background: #0b0b0b;
+}
+#msg p{
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+	color: #bdbdbd;
+}
 
 @media(max-width: 825px){
+	.login{
+		margin: auto;
+		padding: 25px;
+	}
+	.login img{
+		width: 30px;
+		filter: invert(100%);
+		position: static;
+		margin: auto;
+
+	}
 	.hire{
 			display: inline-flex;
 	}

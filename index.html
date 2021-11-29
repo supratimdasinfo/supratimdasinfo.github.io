@@ -77,6 +77,9 @@
 		</div>
 		<div class="menu">
 			<ul>
+				<li><div class="login" onclick="login()">
+					<img src="login.png">
+				</div></li>
 				<li><a href="#about">About</a></li>
 				<li><a href="#edu">Education</a></li>
 				<li><a href="#skills">Skills</a></li>
@@ -237,6 +240,9 @@
 	</div>
 	<div class="andmenu" id="andmenu">
 		<ul id="ul">
+			<li><div class="login" onclick="login()">
+				<img src="login.png">
+			</div></li>
 			<!-- <a onclick="hide()"><img src="close.png"></a> -->
 			<li><a onclick="hide()" href="#about"><span data-aos="fade-right" style="background: #fff; color: #000;padding: 10px; padding-left: 10px; padding-right:10px;font-weight: 600; border-radius: 8px;"># About </span></a></li>
 			<li><a onclick="hide()" href="#edu"><span style="background: #0b0b0b; color: #fff;padding: 10px; padding-left: 10px; padding-right:10px;border-radius: 8px;"># Education </span></a></li>
@@ -248,6 +254,9 @@
 		
 	</div>	
 	<div id="preload"></div>
+	<div id="msg">
+		<p>This Facility coming soon, I'm working on it...</p>
+	</div>
 
 <!-- 	<script>
 		var today = new Date().getHours();
@@ -259,6 +268,10 @@
 		}
 	</script> -->
 	<script>
+		function login(){
+			document.getElementById("msg").style.top = "40px";
+			setTimeout(function(){document.getElementById("msg").style.top = "-1000px";},4000);
+		}
 
 		window.addEventListener("load", function(){
 			var prel = document.getElementById('preload');
