@@ -236,8 +236,8 @@ body::-webkit-scrollbar {
 	font-weight: 400;
 	padding-left: 50px;
 	padding-right: 50px;
-	background: transparent;
-	border: 4px solid white;
+	background: blue;
+	border: 0px solid white;
 	font-family: 'Source Serif Pro', serif;
 }
 .myimg{
@@ -314,8 +314,8 @@ body::-webkit-scrollbar {
 
 	padding-left: 50px;
 	padding-right: 50px;
-	background: transparent;
-	border: 4px solid white;
+	background: blue;
+	border: 0px solid white;
 	font-family: 'Source Serif Pro', serif;
 }
 .skills{
@@ -1161,8 +1161,8 @@ body::-webkit-scrollbar {
 		font-family: 'Poppins', sans-serif;
 	}
 	.details button{
-		width: 90%;
-		margin: 5%;
+		width: 100%;
+		margin: 0%;
 		font-size: 20px;
 		color: #fff;
 		padding: 10px;
@@ -1171,8 +1171,8 @@ body::-webkit-scrollbar {
 
 		padding-left: 30px;
 		padding-right: 30px;
-		background: transparent;
-		border: 3px solid white;
+		background: blue;
+		border: 0px solid white;
 		font-family: 'Source Serif Pro', serif;
 	}
 	.myimg{
@@ -1261,8 +1261,8 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		padding-left: 30px;
 		padding-right: 30px;
-		background: transparent;
-		border: 3px solid white;
+		background: blue;
+		border: 0px solid white;
 		font-family: 'Source Serif Pro', serif;
 	}
 	.skills{
