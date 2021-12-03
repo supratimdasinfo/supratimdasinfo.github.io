@@ -1160,7 +1160,7 @@ body::-webkit-scrollbar {
 		100%{border-radius: 30% 70% 70% 30% / 30% 38% 62% 70% ;}
 	}
 	.details p{
-		font-size: 14px;
+		font-size: 15px;
 		text-align: left;
 		font-weight: 600;
 		color: #bdbdbd;
@@ -1263,7 +1263,7 @@ body::-webkit-scrollbar {
 		border-left: 0px solid #0f00ff;
 		text-align: left;
 		font-family: 'Poppins', sans-serif;
-		font-size: 14px;
+		font-size: 15px;
 	}
 	.edu button{
 		font-size: 20px;
@@ -1329,7 +1329,7 @@ body::-webkit-scrollbar {
 		padding: 5%;
 		text-align: left;
 		font-family: 'Poppins', sans-serif;
-		font-size: 14px;
+		font-size: 15px;
 	}
 	.skillsdetails h5{
 		color: #4c4c4c;
@@ -1579,7 +1579,7 @@ body::-webkit-scrollbar {
 		width: 100%;
 		background: transparent;
 		font-family: 'Poppins', sans-serif;
-		font-size: 20px;
+		font-size: 18px;
 		padding: 5px;
 		color: #fff;
 		font-weight: 600;
@@ -1591,7 +1591,7 @@ body::-webkit-scrollbar {
 		width: 100%;
 		background: transparent;
 		font-family: 'Poppins', sans-serif;
-		font-size: 20px;
+		font-size: 18px;
 		padding: 5px;
 		color: #fff;
 		font-weight: 600;
@@ -1621,7 +1621,7 @@ body::-webkit-scrollbar {
 	.contact form p{
 		color: #bdbdbd;
 		text-align: left;
-		font-size: 18px;
+		font-size: 16px;
 		font-weight: 400;
 		font-family: 'Poppins', sans-serif;
 	}
