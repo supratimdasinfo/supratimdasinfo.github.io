@@ -663,13 +663,13 @@ body::-webkit-scrollbar {
 	padding-left: 50px;
 	padding-right: 50px;
 
-	background: transparent;
+	background: black;
 	border: 4px solid black;
 	font-family: 'Source Serif Pro', serif;
 }
 .contact form button:hover{
-	color: #fff;
-	background: black;
+	color: white;
+	background: transparent;
 }
 .contact form p{
 	color: #bdbdbd;
@@ -1610,13 +1610,13 @@ body::-webkit-scrollbar {
 
 		padding-left: 30px;
 		padding-right: 30px;
-		background: transparent;
+		background: black;
 		border: 4px solid black;
 		font-family: 'Source Serif Pro', serif;
 	}
 	.contact form button:hover{
 		color: #fff;
-		background: black;
+		background: transparent;
 	}
 	.contact form p{
 		color: #bdbdbd;
