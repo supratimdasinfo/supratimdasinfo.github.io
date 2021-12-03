@@ -174,7 +174,7 @@ body::-webkit-scrollbar {
 }
 .iam2{
 	width: 70%;
-	background: #2d00ff;
+	background: #0f00ff;
 	height: 250px;
 }
 .iam2con{
@@ -236,7 +236,7 @@ body::-webkit-scrollbar {
 	font-weight: 400;
 	padding-left: 50px;
 	padding-right: 50px;
-	background: #2d00ff;
+	background: #0f00ff;
 	border: 0px solid white;
 	font-family: 'Source Serif Pro', serif;
 }
@@ -270,7 +270,7 @@ body::-webkit-scrollbar {
 	width: 75%;
 	padding: 10%;
 	padding-top: 0;
-	border-right: 150px solid #2d00ff;
+	border-right: 150px solid #0f00ff;
 }
 .edu1 h1{
 	color: #fff;
@@ -294,7 +294,7 @@ body::-webkit-scrollbar {
 .edu1 p{
 	color: #fff;
 	padding-left: 1%;
-	border-left: 0px solid #2d00ff;
+	border-left: 0px solid #0f00ff;
 	animation:  2s infinite;
 	text-align: justify;
 	font-family: 'Poppins', sans-serif;
@@ -314,7 +314,7 @@ body::-webkit-scrollbar {
 
 	padding-left: 50px;
 	padding-right: 50px;
-	background: #2d00ff;
+	background: #0f00ff;
 	border: 0px solid white;
 	font-family: 'Source Serif Pro', serif;
 }
@@ -326,7 +326,7 @@ body::-webkit-scrollbar {
 }
 .skills2{
 	width: 70%;
-	background: #2d00ff;
+	background: #0f00ff;
 	height: 250px;
 }
 .skills2con{
@@ -370,13 +370,13 @@ body::-webkit-scrollbar {
 	font-weight: 600;
 	text-align: center;
 	font-family: 'Poppins', sans-serif;
-	font-size: 20px;
+	font-size: 24px;
 }
 .skillsdetails h3{
 	font-family: 'Poppins', sans-serif;
 	font-size: 35px;
 	text-align: center;
-	color: #2d00ff;
+	color: #0f00ff;
 }
 .lan{
 	width: 90%;
@@ -507,7 +507,7 @@ body::-webkit-scrollbar {
 }
 .project1{
 	width: 70%;
-	background: #2d00ff;
+	background: #0f00ff;
 	height: 250px;
 }
 .project1con{
@@ -598,7 +598,7 @@ body::-webkit-scrollbar {
 .footer{
 	width: 100%;
 	padding: 0%;
-	background: #2d00ff;
+	background: #0f00ff;
 }
 .contact{
 	width: 70%;
@@ -767,7 +767,7 @@ body::-webkit-scrollbar {
   left: 0px;
   z-index: 99999;
   width: 100%;
-  height: 7px;
+  height: 6px;
   pacity: 100%;
   border-radius: 0px;
   background: transparent;
@@ -778,12 +778,12 @@ body::-webkit-scrollbar {
 }
 [data-scrollPercentage] .percentage {
  	display: block;
- 	background-color: #2d00ff;
+ 	background-color: #0f00ff;
  	border-radius: 0px;
  	transition: 1s;
- 	border-top-right-radius: 5px;
- 	border-bottom-right-radius: 5px;
- 	height: 7px;
+ 	border-top-right-radius: 1px;
+ 	border-bottom-right-radius: 1px;
+ 	height: 6px;
  	width: 0;
 }
 
@@ -1120,7 +1120,7 @@ body::-webkit-scrollbar {
 	}
 	.iam2{
 		width: 70%;
-		background: #2d00ff;
+		background: #0f00ff;
 		height: 100px;
 	}
 	.iam2con{
@@ -1160,8 +1160,8 @@ body::-webkit-scrollbar {
 		100%{border-radius: 30% 70% 70% 30% / 30% 38% 62% 70% ;}
 	}
 	.details p{
-		font-size: 16px;
-		text-align: justify;
+		font-size: 14px;
+		text-align: left;
 		font-weight: 600;
 		color: #bdbdbd;
 		font-family: 'Poppins', sans-serif;
@@ -1185,7 +1185,7 @@ body::-webkit-scrollbar {
 
 		padding-left: 30px;
 		padding-right: 30px;
-		background: #2d00ff;
+		background: #0f00ff;
 		border: 0px solid white;
 		font-family: 'Source Serif Pro', serif;
 	}
@@ -1226,13 +1226,13 @@ body::-webkit-scrollbar {
 		position: relative;
 		top: -50px;
 		padding-top: 0%;
-		border-right: 0px solid #2d00ff;
+		border-right: 0px solid #0f00ff;
 	}
 	.graphics{
 		display: block;
 		width: 70%;
 		height: 100px;
-		background: #2d00ff;
+		background: #0f00ff;
 		position: relative;
 		top: -30px;
 		right: -35.5%;
@@ -1260,10 +1260,10 @@ body::-webkit-scrollbar {
 	.edu1 p{
 		color: #bdbdbd;
 		font-weight: 600;
-		border-left: 0px solid #2d00ff;
-		text-align: justify;
+		border-left: 0px solid #0f00ff;
+		text-align: left;
 		font-family: 'Poppins', sans-serif;
-		font-size: 16px;
+		font-size: 14px;
 	}
 	.edu button{
 		font-size: 20px;
@@ -1275,7 +1275,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		padding-left: 30px;
 		padding-right: 30px;
-		background: #2d00ff;
+		background: #0f00ff;
 		border: 0px solid white;
 		font-family: 'Source Serif Pro', serif;
 	}
@@ -1287,7 +1287,7 @@ body::-webkit-scrollbar {
 	}
 	.skills2{
 		width: 80%;
-		background: #2d00ff;
+		background: #0f00ff;
 		height: 200px;
 	}
 	.skills2con{
@@ -1327,9 +1327,9 @@ body::-webkit-scrollbar {
 		color: #4c4c4c;
 		font-weight: 600;
 		padding: 5%;
-		text-align: justify;
+		text-align: left;
 		font-family: 'Poppins', sans-serif;
-		font-size: 16px;
+		font-size: 14px;
 	}
 	.skillsdetails h5{
 		color: #4c4c4c;
@@ -1446,7 +1446,7 @@ body::-webkit-scrollbar {
 	}
 	.project1{
 		width: 80%;
-		background: #2d00ff;
+		background: #0f00ff;
 		margin-top: 25%;
 		height: 200px;
 	}
@@ -1540,7 +1540,7 @@ body::-webkit-scrollbar {
 	.footer{
 		width: 100%;
 		padding: 0%;
-		background: #2d00ff;
+		background: #0f00ff;
 	}
 	.contact{
 		width: 95%;
