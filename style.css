@@ -214,7 +214,7 @@ body::-webkit-scrollbar {
 }
 .details p{
 	font-size: 20px;
-	text-align: justify;
+	text-align: left;
 	font-weight: 400;
 	color: #fff;
 	font-family: 'Poppins', sans-serif;
@@ -238,7 +238,7 @@ body::-webkit-scrollbar {
 	padding-right: 50px;
 	background: #0f00ff;
 	border: 0px solid white;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .myimg{
 	width: 100%;
@@ -282,21 +282,21 @@ body::-webkit-scrollbar {
 .edu1 h4{
 	color: #fff;
 	margin-top: 1%;
-	margin-bottom: 1.5%;
-	line-height: 70px;
+	margin-bottom: 0%;
+	line-height: 20px;
 	position: relative;
 	opacity: 80%;
 	left: -5%;
 	font-weight: 600;
 	font-family: 'Poppins', sans-serif;
-	font-size: 32px;
+	font-size: 20px;
 }
 .edu1 p{
 	color: #fff;
 	padding-left: 1%;
 	border-left: 0px solid #0f00ff;
 	animation:  2s infinite;
-	text-align: justify;
+	text-align: left;
 	font-family: 'Poppins', sans-serif;
 	font-size: 20px;
 }
@@ -316,7 +316,7 @@ body::-webkit-scrollbar {
 	padding-right: 50px;
 	background: #0f00ff;
 	border: 0px solid white;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .skills{
 	width: 100%;
@@ -665,7 +665,7 @@ body::-webkit-scrollbar {
 
 	background: black;
 	border: 4px solid black;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .contact form button:hover{
 	color: white;
@@ -1187,7 +1187,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: #0f00ff;
 		border: 0px solid white;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.myimg{
 		width: 100%;
@@ -1248,14 +1248,14 @@ body::-webkit-scrollbar {
 	}
 	.edu1 h4{
 		color: #fff;
-		margin-top: 2%;
-		margin-bottom: 2%;
-		line-height: 42px;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		line-height: 18px;
 		position: relative;
 		font-weight: 600;
-		left: -6%;
+		left: -2%;
 		font-family: 'Poppins', sans-serif;
-		font-size: 20px;
+		font-size: 15px;
 	}
 	.edu1 p{
 		color: #bdbdbd;
@@ -1277,7 +1277,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: #0f00ff;
 		border: 0px solid white;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.skills{
 		width: 100%;
@@ -1327,7 +1327,7 @@ body::-webkit-scrollbar {
 		color: #4c4c4c;
 		font-weight: 600;
 		padding: 0%;
-		text-align: left;
+		text-align: center;
 		font-family: 'Poppins', sans-serif;
 		font-size: 15px;
 	}
@@ -1612,7 +1612,7 @@ body::-webkit-scrollbar {
 		padding-right: 30px;
 		background: black;
 		border: 4px solid black;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.contact form button:hover{
 		color: #fff;
