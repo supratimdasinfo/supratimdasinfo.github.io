@@ -1163,6 +1163,7 @@ body::-webkit-scrollbar {
 	}
 	.details p{
 		font-size: 15px;
+		line-height: 18px;
 		text-align: left;
 		font-weight: 600;
 		color: #bdbdbd;
@@ -1265,6 +1266,7 @@ body::-webkit-scrollbar {
 		border-left: 0px solid #0f00ff;
 		text-align: left;
 		font-family: 'Poppins', sans-serif;
+		line-height: 18px;
 		font-size: 15px;
 	}
 	.edu button{
@@ -1330,6 +1332,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		padding: 0%;
 		text-align: center;
+		line-height: 18px;
 		font-family: 'Poppins', sans-serif;
 		font-size: 15px;
 	}
