@@ -148,7 +148,7 @@ body::-webkit-scrollbar {
 .iam h1{
 	font-size: 54px;
 	color: #fff;
-	line-height: 70px;
+	line-height: 65px;
 	position: relative;
 	top: 14%;
 	text-align: left;
@@ -193,6 +193,7 @@ body::-webkit-scrollbar {
 	text-decoration-color: black;
 	font-family: 'Poppins', sans-serif;
 	font-size: 58px;
+	line-height: 58px;
 
 }
 
@@ -274,7 +275,7 @@ body::-webkit-scrollbar {
 }
 .edu1 h1{
 	color: #fff;
-	line-height: 65px;
+	line-height: 48px;
 	font-family: 'Poppins', sans-serif;
 	margin-bottom: 7%;
 	font-size: 58px;
@@ -346,7 +347,7 @@ body::-webkit-scrollbar {
 	text-decoration-color: black;
 	font-family: 'Poppins', sans-serif;
 	font-size: 58px;
-
+	line-height: 48px;
 }
 .skillsdetails{
 	width: 60%;
@@ -368,7 +369,7 @@ body::-webkit-scrollbar {
 	font-size: 20px;
 }
 .skillsdetails h5{
-	color: #000;
+	color: #4c4c4c;
 	font-weight: 600;
 	text-align: center;
 	font-family: 'Poppins', sans-serif;
@@ -515,7 +516,7 @@ body::-webkit-scrollbar {
 .project1con{
 	width: 100%;
 	position: relative;
-	top: -80px;	
+	top: -70px;	
 	left: 20px;
 }
 .project1con h1{
@@ -528,6 +529,7 @@ body::-webkit-scrollbar {
 	text-decoration-color: black;
 	font-family: 'Poppins', sans-serif;
 	font-size: 58px;
+	line-height: 48px;
 
 }
 
@@ -611,9 +613,10 @@ body::-webkit-scrollbar {
 .contact h1{
 	text-align: left;
 	position: relative;
-	top: -80px;
+	top: -70px;
 	left: -15%;
 	font-size: 58px;
+	line-height: 48px;
 	color: #fff;
 	font-weight: 600;
 	font-family: 'Poppins', sans-serif;
@@ -1095,7 +1098,7 @@ body::-webkit-scrollbar {
 		position: static;
 		top: 12%;
 		text-align: left;
-		line-height: 40px;
+		line-height: 37px;
 
 		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
@@ -1141,7 +1144,7 @@ body::-webkit-scrollbar {
 		text-decoration-color: black;
 		font-family: 'Poppins', sans-serif;
 		font-size: 32px;
-		line-height: 35px;
+		line-height: 27px;
 
 	}
 
@@ -1163,7 +1166,7 @@ body::-webkit-scrollbar {
 	}
 	.details p{
 		font-size: 15px;
-		line-height: 18px;
+		line-height: 20px;
 		text-align: left;
 		font-weight: 600;
 		color: #bdbdbd;
@@ -1246,7 +1249,7 @@ body::-webkit-scrollbar {
 		line-height: 40px;
 		font-family: 'Poppins', sans-serif;
 		font-size: 32px;
-		line-height: 35px;
+		line-height: 27px;
 		margin-bottom: 30px;
 	}
 	.edu1 h4{
@@ -1266,7 +1269,7 @@ body::-webkit-scrollbar {
 		border-left: 0px solid #0f00ff;
 		text-align: left;
 		font-family: 'Poppins', sans-serif;
-		line-height: 18px;
+		line-height: 20px;
 		font-size: 15px;
 	}
 	.edu button{
@@ -1311,7 +1314,7 @@ body::-webkit-scrollbar {
 		text-decoration-color: black;
 		font-family: 'Poppins', sans-serif;
 		font-size: 32px;
-		line-height: 35px;
+		line-height: 27px;
 
 	}
 	.skillsdetails{
@@ -1332,7 +1335,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		padding: 0%;
 		text-align: center;
-		line-height: 18px;
+		line-height: 20px;
 		font-family: 'Poppins', sans-serif;
 		font-size: 15px;
 	}
@@ -1471,7 +1474,7 @@ body::-webkit-scrollbar {
 		text-decoration-color: black;
 		font-family: 'Poppins', sans-serif;
 		font-size: 32px;
-		line-height: 35px;
+		line-height: 27px;
 
 	}
 
@@ -1561,7 +1564,7 @@ body::-webkit-scrollbar {
 		top: -50px;
 		left: 7%;
 		font-size: 32px;
-		line-height: 35px;
+		line-height: 27px;
 		color: #fff;
 		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
