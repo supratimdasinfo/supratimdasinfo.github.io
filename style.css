@@ -92,7 +92,7 @@ body::-webkit-scrollbar {
 	width: 40px;
 	filter: invert(100%);
 	position: relative;
-	bottom: -11px;
+	bottom: -12px;
 }
 .menu a img{
 	position: relative;
