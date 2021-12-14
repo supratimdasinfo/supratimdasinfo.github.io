@@ -7,7 +7,7 @@ html{
 	scroll-behavior: smooth;
 	transition: 0.8s;
 	filter: invert(0%);
-	opacity: 100%;
+	opacity: 95%;
 }
 body{
 	background:#000;
@@ -360,7 +360,7 @@ body::-webkit-scrollbar {
 	position: relative;
 	top: -100px;
 	background: #fff;
-	filter: invert(80%);
+	filter: invert(95%);
 
 	margin-left: 15%;
 
