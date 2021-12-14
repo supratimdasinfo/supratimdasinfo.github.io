@@ -221,7 +221,7 @@ body::-webkit-scrollbar {
 	font-size: 20px;
 	line-height: 35px;
 	text-align: left;
-	font-weight: 600;
+	font-weight: 500;
 	color: #bdbdbd;
 	font-family: 'Source Serif Pro', serif;
 }
@@ -289,18 +289,18 @@ body::-webkit-scrollbar {
 	color: #fff;
 	margin-top: 1%;
 	margin-bottom: 0%;
-	line-height: 20px;
+	line-height: 50px;
 	position: relative;
 	opacity: 80%;
-	left: -5%;
+	left: 0%;
 	font-weight: 600;
 	font-family: 'Poppins', sans-serif;
-	font-size: 20px;
+	font-size: 30px;
 }
 .edu1 p{
 	color: #bdbdbd;
 	padding-left: 1%;
-	font-weight: 600;
+	font-weight: 500;
 	border-left: 0px solid #0f00ff;
 	animation:  2s infinite;
 	text-align: left;
@@ -1174,10 +1174,10 @@ body::-webkit-scrollbar {
 		100%{border-radius: 30% 70% 70% 30% / 30% 38% 62% 70% ;}
 	}
 	.details p{
-		font-size: 19px;
+		font-size: 18px;
 		line-height: 30px;
 		text-align: left;
-		font-weight: 600;
+		font-weight: 500;
 		color: #bdbdbd;
 		font-family: 'Source Serif Pro', serif;
 	}
@@ -1265,21 +1265,21 @@ body::-webkit-scrollbar {
 		color: #fff;
 		margin-top: 1%;
 		margin-bottom: 1%;
-		line-height: 18px;
+		line-height: 30px;
 		position: relative;
 		font-weight: 600;
 		left: -2%;
 		font-family: 'Poppins', sans-serif;
-		font-size: 15px;
+		font-size: 22px;
 	}
 	.edu1 p{
 		color: #bdbdbd;
-		font-weight: 600;
+		font-weight: 500;
 		border-left: 0px solid #0f00ff;
 		text-align: left;
 		font-family: 'Source Serif Pro', serif;
 		line-height: 30px;
-		font-size: 19px;
+		font-size: 18px;
 	}
 	.edu button{
 		font-size: 20px;
@@ -1346,7 +1346,7 @@ body::-webkit-scrollbar {
 		text-align: center;
 		line-height: 30px;
 		font-family: 'Source Serif Pro', serif;
-		font-size: 19px;
+		font-size: 18px;
 	}
 	.skillsdetails h5{
 		color: #4c4c4c;
