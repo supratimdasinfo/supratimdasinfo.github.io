@@ -6,7 +6,7 @@
 html{
 	scroll-behavior: smooth;
 	transition: 0.8s;
-	filter: invert(100%);
+	filter: invert(0%);
 	opacity: 100%;
 }
 body{
@@ -30,7 +30,7 @@ body::-webkit-scrollbar {
 .logo{
 	width: 30%;
 	height: auto;
-	padding: 2.5%;
+	padding: 3%;
 	padding-left: 3%;
 }
 .logo h1{
@@ -168,7 +168,7 @@ body::-webkit-scrollbar {
 	width: 100%;
 	position: relative;
 	top: 1%;
-	filter: invert(100%) grayscale(20%);
+	filter: invert(0%) grayscale(0%);
 }
 .about{
 	width: 100%;
@@ -178,7 +178,7 @@ body::-webkit-scrollbar {
 }
 .iam2{
 	width: 70%;
-	background: #0f00ff;
+	background: #e15f41;
 	height: 250px;
 }
 .iam2con{
@@ -221,7 +221,7 @@ body::-webkit-scrollbar {
 	font-size: 20px;
 	line-height: 35px;
 	text-align: left;
-	font-weight: 500;
+	font-weight: 600;
 	color: #bdbdbd;
 	font-family: 'Source Serif Pro', serif;
 }
@@ -242,7 +242,7 @@ body::-webkit-scrollbar {
 	font-weight: 400;
 	padding-left: 50px;
 	padding-right: 50px;
-	background: #0f00ff;
+	background: #e15f41;
 	border: 0px solid white;
 	font-family: 'Poppins', sans-serif;
 }
@@ -262,7 +262,7 @@ body::-webkit-scrollbar {
 .myimg2 img{
 	width: 100%;
 	opacity: 100%;
-	filter: invert(100%);
+	filter: invert(0%);
 }
 .edu{
 	width: 60%;
@@ -276,12 +276,12 @@ body::-webkit-scrollbar {
 	width: 75%;
 	padding: 10%;
 	padding-top: 0;
-	border-right: 150px solid #0f00ff;
+	border-right: 150px solid #e15f41;
 }
 .edu1 h1{
 	color: #fff;
 	line-height: 70px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Source Serif Pro', serif;
 	margin-bottom: 7%;
 	font-size: 54px;
 }
@@ -300,8 +300,8 @@ body::-webkit-scrollbar {
 .edu1 p{
 	color: #bdbdbd;
 	padding-left: 1%;
-	font-weight: 500;
-	border-left: 0px solid #0f00ff;
+	font-weight: 600;
+	border-left: 0px solid #e15f41;
 	animation:  2s infinite;
 	text-align: left;
 	font-family: 'Source Serif Pro', serif;
@@ -322,7 +322,7 @@ body::-webkit-scrollbar {
 
 	padding-left: 50px;
 	padding-right: 50px;
-	background: #0f00ff;
+	background: #e15f41;
 	border: 0px solid white;
 	font-family: 'Poppins', sans-serif;
 }
@@ -334,7 +334,7 @@ body::-webkit-scrollbar {
 }
 .skills2{
 	width: 70%;
-	background: #0f00ff;
+	background: #e15f41;
 	height: 250px;
 }
 .skills2con{
@@ -360,6 +360,8 @@ body::-webkit-scrollbar {
 	position: relative;
 	top: -100px;
 	background: #fff;
+	filter: invert(80%);
+
 	margin-left: 15%;
 
 	padding: 5%;
@@ -371,7 +373,7 @@ body::-webkit-scrollbar {
 	font-weight: 600;
 	text-align: center;
 	font-weight: 600;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 20px;
 	line-height: 35px;
 }
@@ -379,14 +381,14 @@ body::-webkit-scrollbar {
 	color: #4c4c4c;
 	font-weight: 600;
 	text-align: center;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 20px;
 }
 .skillsdetails h3{
 	font-family: 'Poppins', sans-serif;
 	font-size: 35px;
 	text-align: center;
-	color: #0f00ff;
+	color: #e15f41;
 }
 .lan{
 	width: 90%;
@@ -517,7 +519,7 @@ body::-webkit-scrollbar {
 }
 .project1{
 	width: 70%;
-	background: #0f00ff;
+	background: #e15f41;
 	height: 250px;
 }
 .project1con{
@@ -543,7 +545,7 @@ body::-webkit-scrollbar {
 .posts{
 	width: 90%;
 	margin: 5%;
-	filter: invert(100%);
+	filter: invert(0%);
 	position: relative;
 	top: -200px;
 	display: inline-flex;
@@ -609,7 +611,7 @@ body::-webkit-scrollbar {
 .footer{
 	width: 100%;
 	padding: 0%;
-	background: #0f00ff;
+	background: #e15f41;
 }
 .contact{
 	width: 70%;
@@ -652,7 +654,7 @@ body::-webkit-scrollbar {
 	font-weight: 600;
 	border: none;
 	outline: none;
-	border-bottom: 5px solid black;
+	border-bottom: 4px solid white;
 }
 .contact form textarea{
 	width: 100%;
@@ -664,7 +666,7 @@ body::-webkit-scrollbar {
 	font-weight: 600;
 	border: none;
 	outline: none;
-	border-bottom: 5px solid black;
+	border-bottom: 4px solid white;
 }
 .contact form button{
 	font-size: 20px;
@@ -684,9 +686,9 @@ body::-webkit-scrollbar {
 	background: transparent;
 }
 .contact form p{
-	color: #bdbdbd;
+	color: #fff;
 	text-align: left;
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: 400;
 	font-family: 'Source Serif Pro', serif;
 }
@@ -790,7 +792,7 @@ body::-webkit-scrollbar {
 }
 [data-scrollPercentage] .percentage {
  	display: block;
- 	background-color: #0f00ff;
+ 	background-color: #e15f41;
  	border-radius: 0px;
  	transition: 1s;
  	border-top-right-radius: 1px;
@@ -1124,7 +1126,7 @@ body::-webkit-scrollbar {
 		width: 100%;
 		position: static;
 		
-		filter: invert(100%) grayscale(20%);
+		filter: invert(0%) grayscale(0%);
 	}
 	.about{
 		width: 100%;
@@ -1134,7 +1136,7 @@ body::-webkit-scrollbar {
 	}
 	.iam2{
 		width: 70%;
-		background: #0f00ff;
+		background: #e15f41;
 		height: 100px;
 	}
 	.iam2con{
@@ -1177,7 +1179,7 @@ body::-webkit-scrollbar {
 		font-size: 18px;
 		line-height: 30px;
 		text-align: left;
-		font-weight: 500;
+		font-weight: 600;
 		color: #bdbdbd;
 		font-family: 'Source Serif Pro', serif;
 	}
@@ -1200,7 +1202,7 @@ body::-webkit-scrollbar {
 
 		padding-left: 30px;
 		padding-right: 30px;
-		background: #0f00ff;
+		background: #e15f41;
 		border: 0px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
@@ -1222,7 +1224,7 @@ body::-webkit-scrollbar {
 	.myimg2 img{
 		width: 100%;
 		opacity: 100%;
-		filter: invert(100%);
+		filter: invert(0%);
 	}
 	.edu{
 		width: 90%;
@@ -1241,13 +1243,13 @@ body::-webkit-scrollbar {
 		position: relative;
 		top: -50px;
 		padding-top: 0%;
-		border-right: 0px solid #0f00ff;
+		border-right: 0px solid #e15f41;
 	}
 	.graphics{
 		display: block;
 		width: 70%;
 		height: 100px;
-		background: #0f00ff;
+		background: #e15f41;
 		position: relative;
 		top: -30px;
 		right: -35.5%;
@@ -1256,13 +1258,13 @@ body::-webkit-scrollbar {
 	.edu1 h1{
 		color: #fff;
 		line-height: 40px;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Playfair Display', serif;
 		font-size: 33px;
 		line-height: 40px;
 		margin-bottom: 30px;
 	}
 	.edu1 h4{
-		color: #fff;
+		color: #e15f41;
 		margin-top: 1%;
 		margin-bottom: 1%;
 		line-height: 30px;
@@ -1274,8 +1276,8 @@ body::-webkit-scrollbar {
 	}
 	.edu1 p{
 		color: #bdbdbd;
-		font-weight: 500;
-		border-left: 0px solid #0f00ff;
+		font-weight: 600;
+		border-left: 0px solid #e15f41;
 		text-align: left;
 		font-family: 'Source Serif Pro', serif;
 		line-height: 30px;
@@ -1291,7 +1293,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		padding-left: 30px;
 		padding-right: 30px;
-		background: #0f00ff;
+		background: #e15f41;
 		border: 0px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
@@ -1303,7 +1305,7 @@ body::-webkit-scrollbar {
 	}
 	.skills2{
 		width: 80%;
-		background: #0f00ff;
+		background: #e15f41;
 		height: 150px;
 	}
 	.skills2con{
@@ -1345,7 +1347,7 @@ body::-webkit-scrollbar {
 		padding: 0%;
 		text-align: center;
 		line-height: 30px;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 		font-size: 18px;
 	}
 	.skillsdetails h5{
@@ -1353,7 +1355,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		padding: 0%;
 		text-align: center;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 		font-size: 20px;
 	}
 	.skillsdetails h3{
@@ -1463,7 +1465,7 @@ body::-webkit-scrollbar {
 	}
 	.project1{
 		width: 80%;
-		background: #0f00ff;
+		background: #e15f41;
 		margin-top: 25%;
 		height: 200px;
 	}
@@ -1490,7 +1492,7 @@ body::-webkit-scrollbar {
 	.posts{
 		width: 90%;
 		margin: 5%;
-		filter: invert(100%);
+		filter: invert(0%);
 		position: relative;
 		top: -60px;
 		display: inline-block;
@@ -1557,7 +1559,7 @@ body::-webkit-scrollbar {
 	.footer{
 		width: 100%;
 		padding: 0%;
-		background: #0f00ff;
+		background: #e15f41;
 	}
 	.contact{
 		width: 95%;
@@ -1602,7 +1604,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		border: none;
 		outline: none;
-		border-bottom: 4px solid black;
+		border-bottom: 3px solid white;
 	}
 	.contact form textarea{
 		width: 100%;
@@ -1614,7 +1616,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		border: none;
 		outline: none;
-		border-bottom: 4px solid black;
+		border-bottom: 3px solid white;
 	}
 	.contact form button{
 		width: 100%;
@@ -1636,9 +1638,9 @@ body::-webkit-scrollbar {
 		background: transparent;
 	}
 	.contact form p{
-		color: #bdbdbd;
+		color: #fff;
 		text-align: left;
-		font-size: 19px;
+		font-size: 20px;
 		font-weight: 400;
 		font-family: 'Source Serif Pro', serif;
 	}
