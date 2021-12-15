@@ -1329,13 +1329,13 @@ body::-webkit-scrollbar {
 
 	}
 	.skillsdetails{
-		width: 84%;
+		width: 70%;
 		position: relative;
 		top: -60px;
 		background: #fff;
-		margin-left: 0%;
+		margin-left: 5%;
 
-		padding: 8%;
+		padding: 10%;
 		padding-top: 16%;
 		padding-bottom: 16%;
 		margin-top: 0%;
@@ -1641,7 +1641,7 @@ body::-webkit-scrollbar {
 		color: #fff;
 		text-align: left;
 		font-size: 20px;
-		font-weight: 400;
+		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
 	}
 	.end{
