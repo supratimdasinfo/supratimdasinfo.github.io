@@ -168,7 +168,7 @@ body::-webkit-scrollbar {
 	width: 100%;
 	position: relative;
 	top: 1%;
-	filter: invert(0%) grayscale(0%);
+	filter: invert(0%) grayscale(60%);
 }
 .about{
 	width: 100%;
@@ -178,7 +178,7 @@ body::-webkit-scrollbar {
 }
 .iam2{
 	width: 70%;
-	background: #e15f41;
+	background: #c9b190;
 	height: 250px;
 }
 .iam2con{
@@ -223,7 +223,7 @@ body::-webkit-scrollbar {
 	text-align: left;
 	font-weight: 600;
 	color: #bdbdbd;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .details h3{
 	font-size: 40px;
@@ -242,7 +242,7 @@ body::-webkit-scrollbar {
 	font-weight: 400;
 	padding-left: 50px;
 	padding-right: 50px;
-	background: #e15f41;
+	background: #c9b190;
 	border: 0px solid white;
 	font-family: 'Poppins', sans-serif;
 }
@@ -276,7 +276,7 @@ body::-webkit-scrollbar {
 	width: 75%;
 	padding: 10%;
 	padding-top: 0;
-	border-right: 150px solid #e15f41;
+	border-right: 150px solid #c9b190;
 }
 .edu1 h1{
 	color: #fff;
@@ -301,10 +301,10 @@ body::-webkit-scrollbar {
 	color: #bdbdbd;
 	padding-left: 1%;
 	font-weight: 600;
-	border-left: 0px solid #e15f41;
+	border-left: 0px solid #c9b190;
 	animation:  2s infinite;
 	text-align: left;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 20px;
 	line-height: 35px;
 }
@@ -322,7 +322,7 @@ body::-webkit-scrollbar {
 
 	padding-left: 50px;
 	padding-right: 50px;
-	background: #e15f41;
+	background: #c9b190;
 	border: 0px solid white;
 	font-family: 'Poppins', sans-serif;
 }
@@ -334,7 +334,7 @@ body::-webkit-scrollbar {
 }
 .skills2{
 	width: 70%;
-	background: #e15f41;
+	background: #c9b190;
 	height: 250px;
 }
 .skills2con{
@@ -388,7 +388,7 @@ body::-webkit-scrollbar {
 	font-family: 'Poppins', sans-serif;
 	font-size: 35px;
 	text-align: center;
-	color: #e15f41;
+	color: #c9b190;
 }
 .lan{
 	width: 90%;
@@ -519,7 +519,7 @@ body::-webkit-scrollbar {
 }
 .project1{
 	width: 70%;
-	background: #e15f41;
+	background: #c9b190;
 	height: 250px;
 }
 .project1con{
@@ -568,12 +568,12 @@ body::-webkit-scrollbar {
 	height: 300px;
 	font-size: 35px;
 	color: #fff;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .post p{
 	font-size: 15px;
 	color: #fff;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 .postbtn{
@@ -611,7 +611,7 @@ body::-webkit-scrollbar {
 .footer{
 	width: 100%;
 	padding: 0%;
-	background: #e15f41;
+	background: #c9b190;
 }
 .contact{
 	width: 70%;
@@ -690,7 +690,7 @@ body::-webkit-scrollbar {
 	text-align: left;
 	font-size: 22px;
 	font-weight: 400;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 }
 .end{
 	width: 96%;
@@ -713,7 +713,7 @@ body::-webkit-scrollbar {
 	font-size: 18px;
 	color: #fff;
 	font-weight: 400;
-	font-family: 'Source Serif Pro', serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 .up{
@@ -792,7 +792,7 @@ body::-webkit-scrollbar {
 }
 [data-scrollPercentage] .percentage {
  	display: block;
- 	background-color: #e15f41;
+ 	background-color: #c9b190;
  	border-radius: 0px;
  	transition: 1s;
  	border-top-right-radius: 1px;
@@ -1126,7 +1126,7 @@ body::-webkit-scrollbar {
 		width: 100%;
 		position: static;
 		
-		filter: invert(0%) grayscale(0%);
+		filter: invert(0%) grayscale(60%);
 	}
 	.about{
 		width: 100%;
@@ -1136,7 +1136,7 @@ body::-webkit-scrollbar {
 	}
 	.iam2{
 		width: 70%;
-		background: #e15f41;
+		background: #c9b190;
 		height: 100px;
 	}
 	.iam2con{
@@ -1181,7 +1181,7 @@ body::-webkit-scrollbar {
 		text-align: left;
 		font-weight: 600;
 		color: #bdbdbd;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.details h3{
 		font-size: 27px;
@@ -1202,7 +1202,7 @@ body::-webkit-scrollbar {
 
 		padding-left: 30px;
 		padding-right: 30px;
-		background: #e15f41;
+		background: #c9b190;
 		border: 0px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
@@ -1243,13 +1243,13 @@ body::-webkit-scrollbar {
 		position: relative;
 		top: -50px;
 		padding-top: 0%;
-		border-right: 0px solid #e15f41;
+		border-right: 0px solid #c9b190;
 	}
 	.graphics{
 		display: block;
 		width: 70%;
 		height: 100px;
-		background: #e15f41;
+		background: #c9b190;
 		position: relative;
 		top: -30px;
 		right: -35.5%;
@@ -1264,7 +1264,7 @@ body::-webkit-scrollbar {
 		margin-bottom: 30px;
 	}
 	.edu1 h4{
-		color: #e15f41;
+		color: #c9b190;
 		margin-top: 1%;
 		margin-bottom: 1%;
 		line-height: 30px;
@@ -1277,9 +1277,9 @@ body::-webkit-scrollbar {
 	.edu1 p{
 		color: #bdbdbd;
 		font-weight: 600;
-		border-left: 0px solid #e15f41;
+		border-left: 0px solid #c9b190;
 		text-align: left;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 		line-height: 30px;
 		font-size: 18px;
 	}
@@ -1293,7 +1293,7 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		padding-left: 30px;
 		padding-right: 30px;
-		background: #e15f41;
+		background: #c9b190;
 		border: 0px solid white;
 		font-family: 'Poppins', sans-serif;
 	}
@@ -1305,7 +1305,7 @@ body::-webkit-scrollbar {
 	}
 	.skills2{
 		width: 80%;
-		background: #e15f41;
+		background: #c9b190;
 		height: 150px;
 	}
 	.skills2con{
@@ -1345,7 +1345,7 @@ body::-webkit-scrollbar {
 		color: #4c4c4c;
 		font-weight: 600;
 		padding: 0%;
-		text-align: center;
+		text-align: left;
 		line-height: 30px;
 		font-family: 'Poppins', sans-serif;
 		font-size: 18px;
@@ -1356,7 +1356,7 @@ body::-webkit-scrollbar {
 		padding: 0%;
 		text-align: center;
 		font-family: 'Poppins', sans-serif;
-		font-size: 20px;
+		font-size: 18px;
 	}
 	.skillsdetails h3{
 		font-family: 'Poppins', sans-serif;
@@ -1465,7 +1465,7 @@ body::-webkit-scrollbar {
 	}
 	.project1{
 		width: 80%;
-		background: #e15f41;
+		background: #c9b190;
 		margin-top: 25%;
 		height: 200px;
 	}
@@ -1516,12 +1516,12 @@ body::-webkit-scrollbar {
 		height: 150px;
 		font-size: 25px;
 		color: #fff;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.post p{
 		font-size: 15px;
 		color: #fff;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 
 	.postbtn{
@@ -1559,7 +1559,7 @@ body::-webkit-scrollbar {
 	.footer{
 		width: 100%;
 		padding: 0%;
-		background: #e15f41;
+		background: #c9b190;
 	}
 	.contact{
 		width: 95%;
@@ -1642,7 +1642,7 @@ body::-webkit-scrollbar {
 		text-align: left;
 		font-size: 20px;
 		font-weight: 400;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 	.end{
 		width: 84%;
@@ -1665,7 +1665,7 @@ body::-webkit-scrollbar {
 		font-size: 15px;
 		color: #fff;
 		font-weight: 400;
-		font-family: 'Source Serif Pro', serif;
+		font-family: 'Poppins', sans-serif;
 	}
 
 	.up{
