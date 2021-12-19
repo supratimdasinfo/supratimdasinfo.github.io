@@ -34,9 +34,9 @@ body::-webkit-scrollbar {
 	padding-left: 3%;
 }
 .logo h1{
-	font-size: 28px;
+	font-size: 32px;
 	color: #fff;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Rakkas', cursive;
 }
 .logo p{
 	font-size: 22px;
@@ -104,6 +104,17 @@ body::-webkit-scrollbar {
 	margin-top: 0;
 	margin-bottom: 0;
 }
+.end2 img{
+	position: relative;
+	top: 5px;
+	left: 0;
+	width: 30px;
+	height: 30px;
+	margin: 5px;
+	filter: invert(100%);
+	margin-top: 0;
+	margin-bottom: 0;
+}
 .mid{
 	width: 100%;
 	margin-top: 0%;
@@ -150,7 +161,7 @@ body::-webkit-scrollbar {
 
 }
 .iam h1{
-	font-size: 54px;
+	font-size: 64px;
 	color: #fff;
 	line-height: 70px;
 	position: relative;
@@ -159,7 +170,7 @@ body::-webkit-scrollbar {
 	
 
 	font-weight: 600;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Rakkas', cursive;
 }
 .imag{
 	width: 35%;
@@ -195,8 +206,8 @@ body::-webkit-scrollbar {
 	font-weight: 600;
 	text-decoration: none;
 	text-decoration-color: black;
-	font-family: 'Poppins', sans-serif;
-	font-size: 54px;
+	font-family: 'Rakkas', cursive;
+	font-size: 74px;
 	line-height: 70px;
 
 }
@@ -234,17 +245,17 @@ body::-webkit-scrollbar {
 	font-family: 'Poppins', sans-serif;
 }
 .details button{
-	font-size: 20px;
+	font-size: 24px;
 	color: #fff;
 	padding: 17px;
 	font-style: none;
-
-	font-weight: 600;
+	border-radius: 50px;
+	font-weight: 300;
 	padding-left: 50px;
 	padding-right: 50px;
 	background: #c9b190;
 	border: 0px solid white;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Rakkas', cursive;
 }
 .myimg{
 	width: 100%;
@@ -281,7 +292,7 @@ body::-webkit-scrollbar {
 .edu1 h1{
 	color: #fff;
 	line-height: 70px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Rakkas', cursive;
 	margin-bottom: 7%;
 	font-size: 54px;
 }
@@ -314,17 +325,17 @@ body::-webkit-scrollbar {
 	100%{height: 0px;}
 }
 .edu button{
-	font-size: 20px;
+	font-size: 24px;
 	color: #fff;
 	padding: 17px;
 	font-style: none;
-	font-weight: 600;
-
+	font-weight: 300;
+	border-radius: 50px;
 	padding-left: 50px;
 	padding-right: 50px;
 	background: #c9b190;
 	border: 0px solid white;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Rakkas', cursive;
 }
 .skills{
 	width: 100%;
@@ -518,7 +529,7 @@ body::-webkit-scrollbar {
 	padding: 0%;
 }
 .project1{
-	width: 70%;
+	width: 80%;
 	background: #c9b190;
 	height: 250px;
 }
@@ -545,8 +556,8 @@ body::-webkit-scrollbar {
 	font-weight: 600;
 	text-decoration: none;
 	text-decoration-color: black;
-	font-family: 'Poppins', sans-serif;
-	font-size: 54px;
+	font-family: 'Rakkas', cursive;
+	font-size: 74px;
 	line-height: 70px;
 
 }
@@ -556,7 +567,7 @@ body::-webkit-scrollbar {
 	margin: 5%;
 	filter: invert(0%);
 	position: relative;
-	top: -100px;
+	top: -150px;
 	display: inline-flex;
 	justify-content: space-between;
 }
@@ -578,6 +589,7 @@ body::-webkit-scrollbar {
 	font-size: 35px;
 	color: #fff;
 	font-family: 'Poppins', sans-serif;
+	
 }
 .post p{
 	font-size: 15px;
@@ -634,11 +646,11 @@ body::-webkit-scrollbar {
 	position: relative;
 	top: -50px;
 	left: -15%;
-	font-size: 54px;
+	font-size: 74px;
 	line-height: 70px;
 	color: #fff;
 	font-weight: 600;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Rakkas', cursive;
 }
 .contact form p{
 	text-align: left;
@@ -679,17 +691,17 @@ body::-webkit-scrollbar {
 	border-bottom: 4px solid white;
 }
 .contact form button{
-	font-size: 20px;
+	font-size: 24px;
 	color: #fff;
 	padding: 17px;
 	font-style: none;
-	font-weight: 600;
+	font-weight: 300;
 	padding-left: 150px;
 	padding-right: 150px;
-
+	border-radius: 50px;
 	background: black;
 	border: 4px solid black;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Rakkas', cursive;
 }
 .contact form button:hover{
 	color: white;
@@ -699,21 +711,27 @@ body::-webkit-scrollbar {
 	color: #fff;
 	text-align: left;
 	font-size: 22px;
-	font-weight: 400;
+	font-weight: 600;
 	font-family: 'Poppins', sans-serif;
 }
 .contact form h2{
 	color: #fff;
 	text-align: left;
-	font-size: 30px;
+	font-size: 25px;
+	line-height: 32px;
 	font-weight: 600;
 	margin-bottom: 5%;
 	font-family: 'Poppins', sans-serif;
 }
 .end{
-	width: 96%;
-	padding: 2%;
+	width: 80%;
+	padding: 3%;
+	padding-left: 10%;
+	padding-right: 10%;
 	margin-top: 5%;
+	display: inline-flex;
+	justify-content: space-between;
+	flex-direction: row-reverse;
 	background: black;
 }
 .icon{
@@ -728,9 +746,9 @@ body::-webkit-scrollbar {
 
 	text-align: center;
 
-	font-size: 18px;
+	font-size: 22px;
 	color: #fff;
-	font-weight: 400;
+	font-weight: 600;
 	font-family: 'Poppins', sans-serif;
 }
 
@@ -995,6 +1013,22 @@ body::-webkit-scrollbar {
 		margin: 3.5px;
 		filter: invert(100%);
 	}
+	.end2{
+		display: inline-flex;
+		justify-content: safe center;
+		width: 90%;
+		padding: 5.0%;
+		padding-left: 5%;
+		margin-top: 1%;
+		padding-bottom: 4.5%;
+	}
+	.end2 img{
+
+		width: 26px;
+		height: 26px;
+		margin: 4.5px;
+		filter: invert(100%);
+	}
 	.logo{
 		width: 88.5%;
 		height: auto;
@@ -1005,10 +1039,10 @@ body::-webkit-scrollbar {
 		padding-left: 7%;
 	}
 	.logo h1{
-		font-size: 22px;
+		font-size: 27px;
 		line-height: 30px;
 		color: #fff;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Rakkas', cursive;
 	}
 	.logo p{
 		font-size: 18px;
@@ -1122,7 +1156,7 @@ body::-webkit-scrollbar {
 
 	}
 	.iam h1{
-		font-size: 33px;
+		font-size: 37px;
 
 		color: #fff;
 		position: static;
@@ -1131,7 +1165,7 @@ body::-webkit-scrollbar {
 		line-height: 40px;
 
 		font-weight: 600;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Rakkas', cursive;
 	}
 	.imag1{
 		display: block;
@@ -1172,8 +1206,8 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		text-decoration: none;
 		text-decoration-color: black;
-		font-family: 'Poppins', sans-serif;
-		font-size: 33px;
+		font-family: 'Rakkas', cursive;
+		font-size: 37px;
 		line-height: 40px;
 
 	}
@@ -1213,17 +1247,17 @@ body::-webkit-scrollbar {
 	.details button{
 		width: 100%;
 		margin: 0%;
-		font-size: 20px;
+		font-size: 22px;
 		color: #fff;
 		padding: 17px;
-		font-weight: 600;
+		font-weight: 300;
 		font-style: none;
 
 		padding-left: 30px;
 		padding-right: 30px;
 		background: #c9b190;
 		border: 0px solid white;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Rakkas', cursive;
 	}
 	.myimg{
 		width: 100%;
@@ -1277,8 +1311,8 @@ body::-webkit-scrollbar {
 	.edu1 h1{
 		color: #fff;
 		line-height: 40px;
-		font-family: 'Poppins', sans-serif;
-		font-size: 33px;
+		font-family: 'Rakkas', cursive;
+		font-size: 35px;
 		line-height: 40px;
 		margin-bottom: 30px;
 	}
@@ -1303,18 +1337,18 @@ body::-webkit-scrollbar {
 		font-size: 16px;
 	}
 	.edu button{
-		font-size: 20px;
+		font-size: 22px;
 		width: 100%;
 		color: #fff;
 		padding: 17px;
 		font-style: none;
 
-		font-weight: 600;
+		font-weight: 300;
 		padding-left: 30px;
 		padding-right: 30px;
 		background: #c9b190;
 		border: 0px solid white;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Rakkas', cursive;
 	}
 	.skills{
 		width: 100%;
@@ -1483,13 +1517,13 @@ body::-webkit-scrollbar {
 		padding: 0%;
 	}
 	.project1{
-		width: 82%;
+		width: 70%;
 		background: #c9b190;
 		margin-top: 25%;
 		height: 100px;
 	}
 	.project1con{
-		width: 95%;
+		width: 110%;
 		position: relative;
 		top: -40px;	
 		left: 20px;
@@ -1502,8 +1536,8 @@ body::-webkit-scrollbar {
 		font-weight: 600;
 		text-decoration: none;
 		text-decoration-color: black;
-		font-family: 'Poppins', sans-serif;
-		font-size: 33px;
+		font-family: 'Rakkas', cursive;
+		font-size: 37px;
 		line-height: 42px;
 
 	}
@@ -1594,11 +1628,11 @@ body::-webkit-scrollbar {
 		position: relative;
 		top: -30px;
 		left: 7%;
-		font-size: 33px;
+		font-size: 37px;
 		line-height: 40px;
 		color: #fff;
 		font-weight: 600;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Rakkas', cursive;
 	}
 	.contact form p{
 		text-align: left;
@@ -1641,17 +1675,17 @@ body::-webkit-scrollbar {
 	.contact form button{
 		width: 100%;
 		margin: auto;
-		font-size: 20px;
+		font-size: 22px;
 		color: #fff;
 		padding: 10px;
 		font-style: none;
-		font-weight: 600;
+		font-weight: 300;
 
 		padding-left: 30px;
 		padding-right: 30px;
 		background: black;
 		border: 4px solid black;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Rakkas', cursive;
 	}
 	.contact form button:hover{
 		color: #fff;
@@ -1667,7 +1701,7 @@ body::-webkit-scrollbar {
 	.contact form h2{
 		color: #fff;
 		text-align: left;
-		font-size: 22px;
+		font-size: 20px;
 		line-height: 25px;
 		margin-bottom: 10%;
 		font-weight: 600;
@@ -1677,6 +1711,8 @@ body::-webkit-scrollbar {
 		width: 84%;
 		padding: 8%;
 		margin-top: 5%;
+		display: block;
+
 		background: black;
 	}
 	.icon{
@@ -1691,9 +1727,9 @@ body::-webkit-scrollbar {
 
 		text-align: center;
 
-		font-size: 15px;
+		font-size: 18px;
 		color: #fff;
-		font-weight: 400;
+		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
 	}
 
