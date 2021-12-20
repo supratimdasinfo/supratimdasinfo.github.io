@@ -77,9 +77,11 @@
 	  if (prevScrollpos > currentScrollPos) {
 	    document.getElementById("menuu").style.top = "3%";
 	    document.getElementById("scrolltop").style.bottom = "-10%";
+	    // document.getElementById("scrolltop").style.zIndex = "-1";
 	  } else {
 	    document.getElementById("menuu").style.top = "-10%";
 	    document.getElementById("scrolltop").style.bottom = "25px";
+	    // document.getElementById("scrolltop").style.zIndex = "1";
 	  }
 	  prevScrollpos = currentScrollPos;
 	}

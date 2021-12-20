@@ -11,7 +11,7 @@ html{
 }
 body{
 	background:#000;
-	min-width: 1500px;
+	min-width: 1200px;
 }
 body::-webkit-scrollbar {
   display: none;
@@ -721,7 +721,7 @@ body::-webkit-scrollbar {
 }
 .contact form h2{
 	color: #0b0b0b;
-	text-align: center;
+	text-align: left;
 	font-size: 40px;
 	line-height: 42px;
 	font-weight: 300;
@@ -892,7 +892,7 @@ body::-webkit-scrollbar {
 	position: fixed;
 	right: 5%;
 	bottom: 25px;
-	z-index: 10;
+	z-index: 2;
 	background: #ccb596;
 	transition: 0.8s;
 }
@@ -927,10 +927,10 @@ body::-webkit-scrollbar {
 		height: 60px;
 		display: block;
 		position: fixed;
-		right: 6%;
-		bottom: 25px;
+		right: 5%;
+		bottom: -10%;
 		border-radius: 1px;
-		z-index: 10;
+		z-index: 1;
 		border: 5px solid black;
 		background: #ccb596;
 		transition: 0.8s;
@@ -1035,7 +1035,7 @@ body::-webkit-scrollbar {
 	}
 	body{
 		background:#000;
-		min-width: 400px;
+		min-width: 398px;
 	}
 	.header{
 		width: 100%;
@@ -1198,6 +1198,7 @@ body::-webkit-scrollbar {
 		margin-right: 0%;
 		margin-top: 15%;
 		padding: 8%;
+
 		padding-left: 15%;
 		position: relative;
 		top: -10px;
@@ -1222,14 +1223,17 @@ body::-webkit-scrollbar {
 	.imag1{
 		display: block;
 		width: 100%;
+		z-index: 3;
 	}
 	.imag{
 		display: none;
 		width: 35%;
+
 	}
 	.imag1 img{
 		width: 100%;
 		position: static;
+
 		
 		filter: invert(0%) grayscale(60%);
 	}
