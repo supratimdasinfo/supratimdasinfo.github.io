@@ -35,6 +35,7 @@ body::-webkit-scrollbar {
 }
 .logo h1{
 	font-size: 32px;
+	font-weight: 500;
 	color: #fff;
 	font-family: 'Rakkas', cursive;
 }
@@ -108,9 +109,9 @@ body::-webkit-scrollbar {
 	position: relative;
 	top: 5px;
 	left: 0;
-	width: 30px;
-	height: 30px;
-	margin: 5px;
+	width: 27px;
+	height: 27px;
+	margin: 3px;
 	filter: invert(100%);
 	margin-top: 0;
 	margin-bottom: 0;
@@ -161,7 +162,7 @@ body::-webkit-scrollbar {
 
 }
 .iam h1{
-	font-size: 64px;
+	font-size: 70px;
 	color: #fff;
 	line-height: 70px;
 	position: relative;
@@ -169,7 +170,7 @@ body::-webkit-scrollbar {
 	text-align: left;
 	
 
-	font-weight: 600;
+	font-weight: 400;
 	font-family: 'Rakkas', cursive;
 }
 .imag{
@@ -195,7 +196,7 @@ body::-webkit-scrollbar {
 .iam2con{
 	width: 100%;
 	position: relative;
-	top: -40px;	
+	top: -50px;	
 	left: 20px;
 }
 .iam2 h1{
@@ -203,11 +204,11 @@ body::-webkit-scrollbar {
 	margin-left: 5%;
 
 	color: #fff;
-	font-weight: 600;
+	font-weight: 500;
 	text-decoration: none;
 	text-decoration-color: black;
 	font-family: 'Rakkas', cursive;
-	font-size: 74px;
+	font-size: 70px;
 	line-height: 70px;
 
 }
@@ -279,6 +280,7 @@ body::-webkit-scrollbar {
 	width: 60%;
 	margin-left: 5%;
 	padding: 8%;
+	padding-top: 5%;
 	background: #000;
 	position: relative;
 	top: -100px;
@@ -287,11 +289,14 @@ body::-webkit-scrollbar {
 	width: 75%;
 	padding: 10%;
 	padding-top: 0;
+	position: relative;
+	right: -7%;
 	border-right: 150px solid #c9b190;
 }
 .edu1 h1{
 	color: #fff;
 	line-height: 70px;
+	font-weight: 500;
 	font-family: 'Rakkas', cursive;
 	margin-bottom: 7%;
 	font-size: 54px;
@@ -536,7 +541,7 @@ body::-webkit-scrollbar {
 .project1con{
 	width: 100%;
 	position: relative;
-	top: -40px;	
+	top: -50px;	
 	left: 20px;
 }
 .project1con h2{
@@ -553,11 +558,11 @@ body::-webkit-scrollbar {
 	margin-left: 5%;
 
 	color: #fff;
-	font-weight: 600;
+	font-weight: 500;
 	text-decoration: none;
 	text-decoration-color: black;
 	font-family: 'Rakkas', cursive;
-	font-size: 74px;
+	font-size: 70px;
 	line-height: 70px;
 
 }
@@ -572,9 +577,9 @@ body::-webkit-scrollbar {
 	justify-content: space-between;
 }
 .post{
-	width: 30%;
+	width: 29%;
 	height: auto;
-	margin: 0.5%;
+	margin: 1%;
 	padding: 3%;
 	background: #000;
 
@@ -644,12 +649,12 @@ body::-webkit-scrollbar {
 .contact h1{
 	text-align: left;
 	position: relative;
-	top: -50px;
+	top: -70px;
 	left: -15%;
-	font-size: 74px;
+	font-size: 70px;
 	line-height: 70px;
 	color: #fff;
-	font-weight: 600;
+	font-weight: 500;
 	font-family: 'Rakkas', cursive;
 }
 .contact form p{
@@ -724,10 +729,10 @@ body::-webkit-scrollbar {
 	font-family: 'Poppins', sans-serif;
 }
 .end{
-	width: 80%;
+	width: 86%;
 	padding: 3%;
-	padding-left: 10%;
-	padding-right: 10%;
+	padding-left: 7%;
+	padding-right: 7%;
 	margin-top: 5%;
 	display: inline-flex;
 	justify-content: space-between;
@@ -746,7 +751,7 @@ body::-webkit-scrollbar {
 
 	text-align: center;
 
-	font-size: 22px;
+	font-size: 20px;
 	color: #fff;
 	font-weight: 600;
 	font-family: 'Poppins', sans-serif;
@@ -1019,7 +1024,8 @@ body::-webkit-scrollbar {
 		width: 90%;
 		padding: 5.0%;
 		padding-left: 5%;
-		margin-top: 1%;
+		padding-top: 0;
+		margin-top: 0%;
 		padding-bottom: 4.5%;
 	}
 	.end2 img{
@@ -1164,7 +1170,7 @@ body::-webkit-scrollbar {
 		text-align: left;
 		line-height: 40px;
 
-		font-weight: 600;
+		font-weight: 500;
 		font-family: 'Rakkas', cursive;
 	}
 	.imag1{
@@ -1203,7 +1209,7 @@ body::-webkit-scrollbar {
 		margin-left: 5%;
 
 		color: #fff;
-		font-weight: 600;
+		font-weight: 500;
 		text-decoration: none;
 		text-decoration-color: black;
 		font-family: 'Rakkas', cursive;
@@ -1312,6 +1318,8 @@ body::-webkit-scrollbar {
 		color: #fff;
 		line-height: 40px;
 		font-family: 'Rakkas', cursive;
+		position: relative;
+		left: -7%;
 		font-size: 35px;
 		line-height: 40px;
 		margin-bottom: 30px;
@@ -1323,13 +1331,15 @@ body::-webkit-scrollbar {
 		line-height: 30px;
 		position: relative;
 		font-weight: 600;
-		left: 0%;
+		left: -6%;
 		font-family: 'Poppins', sans-serif;
 		font-size: 22px;
 	}
 	.edu1 p{
 		color: #bdbdbd;
 		font-weight: 600;
+		position: relative;
+		left: -5%;
 		border-left: 0px solid #c9b190;
 		text-align: left;
 		font-family: 'Poppins', sans-serif;
@@ -1342,6 +1352,8 @@ body::-webkit-scrollbar {
 		color: #fff;
 		padding: 17px;
 		font-style: none;
+		position: relative;
+		left: -9%;
 
 		font-weight: 300;
 		padding-left: 30px;
@@ -1533,7 +1545,7 @@ body::-webkit-scrollbar {
 		margin-left: 5%;
 
 		color: #fff;
-		font-weight: 600;
+		font-weight: 500;
 		text-decoration: none;
 		text-decoration-color: black;
 		font-family: 'Rakkas', cursive;
@@ -1543,8 +1555,8 @@ body::-webkit-scrollbar {
 	}
 
 	.posts{
-		width: 90%;
-		margin: 5%;
+		width: 86%;
+		margin: 7%;
 		filter: invert(0%);
 		position: relative;
 		top: 10px;
@@ -1552,11 +1564,11 @@ body::-webkit-scrollbar {
 		justify-content: space-between;
 	}
 	.post{
-		width: 84%;
+		width: 80%;
 		height: auto;
 		margin: 0%;
-		padding: 8%;
-		margin-bottom: 5%;
+		padding: 10%;
+		margin-bottom: 7%;
 		background: #000;
 
 		border: 0px solid yellow;
@@ -1626,12 +1638,12 @@ body::-webkit-scrollbar {
 		width: 90%;
 		text-align: left;
 		position: relative;
-		top: -30px;
+		top: -40px;
 		left: 7%;
 		font-size: 37px;
 		line-height: 40px;
 		color: #fff;
-		font-weight: 600;
+		font-weight: 500;
 		font-family: 'Rakkas', cursive;
 	}
 	.contact form p{
@@ -1694,14 +1706,14 @@ body::-webkit-scrollbar {
 	.contact form p{
 		color: #fff;
 		text-align: left;
-		font-size: 20px;
+		font-size: 18px;
 		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
 	}
 	.contact form h2{
 		color: #fff;
 		text-align: left;
-		font-size: 20px;
+		font-size: 18px;
 		line-height: 25px;
 		margin-bottom: 10%;
 		font-weight: 600;
@@ -1727,7 +1739,7 @@ body::-webkit-scrollbar {
 
 		text-align: center;
 
-		font-size: 18px;
+		font-size: 15px;
 		color: #fff;
 		font-weight: 600;
 		font-family: 'Poppins', sans-serif;
