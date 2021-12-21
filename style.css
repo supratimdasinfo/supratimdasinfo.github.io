@@ -572,7 +572,7 @@ body::-webkit-scrollbar {
 	margin: 5%;
 	filter: invert(0%);
 	position: relative;
-	top: -150px;
+	top: -80px;
 	display: inline-flex;
 	justify-content: space-between;
 }
