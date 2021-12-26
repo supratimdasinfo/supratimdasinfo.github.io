@@ -93,7 +93,7 @@
 			<img onclick="show()" src="menu.png">
 
 		</div>
-		<div class="solink">
+		<div class="solink" id="solink">
 			<div class="solink1">
 				<a href="https://www.facebook.com/supratim.das.161009"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
 				<a href="https://www.instagram.com/supratimdasinfo"><i class="fa fa-instagram" aria-hidden="true"></i></a>
@@ -151,10 +151,15 @@
 		
 			document.querySelector('.fa-facebook-official').style.animation = 'none';
 		} 
+
+
+
+
+
 		window.addEventListener('scroll', function(){
 			var sctop = window.scrollY;
 
-			document.getElementById('ima1').style.top = sctop * 0.32 + 'px';
+			document.getElementById('ima1').style.top = sctop * 0.3 + 'px';
 			// document.getElementById('ima2').style.top = (sctop) * 0.01 + 'px';
 		})
 		
@@ -369,7 +374,11 @@
 		</ul>
 		
 	</div>	
-	<div id="preload"></div>
+	<div id="preload">
+		<div id="loadbar">
+			<div id="innerbar"></div>
+		</div>
+	</div>
 	<div id="msg">
 		<p>This Facility coming soon, I'm working on it...</p>
 	</div>
@@ -383,7 +392,8 @@
 
 		window.addEventListener("load", function(){
 			var prel = document.getElementById('preload');
-			setTimeout(function(){prel.style.display= "none";},200);
+			var header = document.getElementById('header');
+			setTimeout(function(){prel.style.display= "none";header.style.top= "0px";},500);
 			
 		});
 
@@ -448,5 +458,7 @@
 
 
 	</script>
+
+
 </body>
 </html>
