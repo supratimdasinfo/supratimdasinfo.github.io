@@ -1142,6 +1142,7 @@ body::-webkit-scrollbar {
 
 
 @media(max-width: 559px){
+
 /*	#loadbar{
 		width: 20%;
 		height: 6px;
@@ -1177,6 +1178,7 @@ body::-webkit-scrollbar {
 		width: 30px;
 		height: 30px;
 		padding: 3px;
+		padding-left: 0;
 		color: #bababa;
 		border: 0px solid #bababa;
 
@@ -1186,11 +1188,11 @@ body::-webkit-scrollbar {
 	.dot{
 		display: block;
 		position: relative;
-		top: -31px;
-		left: 23px;
+		top: -34px;
+		left: 22px;
 		z-index: 5;
-		width: 6px;
-		height: 6px;
+		width: 7px;
+		height: 7px;
 		border-radius: 50%;
 		background-color: #c9b190;
 		border: 3px solid #0b0b0b;
@@ -1701,8 +1703,8 @@ body::-webkit-scrollbar {
 		font-family: 'Poppins', sans-serif;
 	}
 	.detailss p{
-		font-size: 16px;
-		line-height: 28px;
+		font-size: 15px;
+		line-height: 27px;
 		text-align: left;
 		font-weight: 600;
 		color: #bdbdbd;
